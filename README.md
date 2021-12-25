@@ -29,3 +29,4 @@ A review of repositories classified by a specific industrial problem with cases 
 - `[RU]` Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов [[youtube]](https://www.youtube.com/watch?v=qbXo7rl51qY)
 - `[RU]` Машинное обучение в промышленном масштабе. Эмили Драль [[youtube]](https://www.youtube.com/watch?v=0tIaQ0jHUVQ)
 - `[RU]` Кейс-конференция AI в промышленности. Индустриальные инновации [[youtube]](https://youtu.be/usVQZGNBe78)
+- `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)
