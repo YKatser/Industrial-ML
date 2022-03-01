@@ -1,6 +1,8 @@
 # Industrial-ML-cases
 A review of repositories classified by a specific industrial problem with cases of applying ML in industry
 
+❗️Разобрать❗️ Конференция Цифры [[youtube]](https://www.youtube.com/watch?v=D6syDw-Mj8Q&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=34)
+
 <a name="cases"></a>
 ## 1. Cases of Industrial DS
 ### 1.1 Отдельные кейсы
