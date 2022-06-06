@@ -1,30 +1,44 @@
 # Industrial-ML-cases
-A review of repositories classified by a specific industrial problem with cases of applying ML in industry
-
-❗️Разобрать❗️ Конференция Цифры [[youtube]](https://www.youtube.com/watch?v=D6syDw-Mj8Q&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=34)
+A overview of repositories, videos, posts classified by a specific industrial problem with cases of applying ML in industry
 
 <a name="cases"></a>
 ## 1. Cases of Industrial DS
-### 1.1 Отдельные кейсы
+#### 1.1 Recommendations
 - `[RU]` Северсталь. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [[Arxiv paper on RL]](https://arxiv.org/pdf/2008.06933v1.pdf)
 - `[RU]` Северсталь. Модель управления обжиговыми машинами. Борис Воскресенский [[youtube]](https://www.youtube.com/watch?v=1Ir70moB9aQ)
 - `[RU]` ММК. Как Яндекс металлургам помогал. Виктор Лобачев [[youtube]](https://www.youtube.com/watch?v=wBbtVPJRMEg)
-- `[RU]` YDF & ММК. Тяжелая металлургия | Data Science кейс-клуб [[youtube]](https://www.youtube.com/watch?v=w68Qe4flJ7Y)
-- `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
+- `[RU]` ММК (YDF). Тяжелая металлургия | Data Science кейс-клуб [[youtube]](https://www.youtube.com/watch?v=w68Qe4flJ7Y)
 - `[RU]` Цифра. Экономно готовим битум: Рекомендации рецептур с помощью машинного обучения. Кирилл Ершов [[youtube]](https://youtu.be/i0o-nSRE9Ks)
-- `[RU]` Искусственный интеллект в металлургии. Александр Хайтин, Mechanica AI [[youtube]](https://www.youtube.com/watch?v=WbPcXEmA6-Q)
-- `[RU]` Росатом. Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI)
-- `[RU]` Росатом. Мониторинг технического состояния электролизеров. Юрий Кацер [[youtube]](https://youtu.be/PXqKoQlqwlo)
-- `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://www.youtube.com/watch?v=cs4ZPcXQedg)
-- `[RU]` ГПН. Как сблизить практику и науку ИИ? Анджей Аршавский [[youtube]](https://www.youtube.com/watch?v=Kte9WZFh3uA)
 - `[RU]` ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко [[youtube]](https://www.youtube.com/watch?v=GXdk7A1qL5U)
-- `[RU]` ГПН (Сколтех). Применение ML для прогнозирования литологии в процессе бурения скважины. Никита Ключников [[youtube]](https://www.youtube.com/watch?v=se57e04Ku7A)
-- `[RU]` ГПН. Применение алгоритмов ML для подавления шумов по несуммированным сейсмическим данным. Даниил Сёмин [[youtube]](https://youtu.be/TylbpWuFY9w)
-- `[RU]` Россети (Mail.ru). Россети и Mail.ru в поисках черных майнеров. Александр Мамаев [[youtube]](https://www.youtube.com/watch?v=00UUnC3l9Jg)
-- `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
 - `[RU]` Евраз. Хитрый сплав: как мы соединили дата-сайентистов, разработчиков и технологов и чем это помогло металлургии [[habr]](https://habr.com/ru/company/evraz/blog/573340/)
 
-### 1.2 Обзоры кейсов и панельные дискуссии
+#### 1.2 Anomaly detection
+- `[RU]` Росатом. Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI)
+- `[RU]` Росатом. Мониторинг технического состояния электролизеров. Юрий Кацер [[youtube]](https://youtu.be/PXqKoQlqwlo)
+- `[RU]` Россети (Mail.ru). Россети и Mail.ru в поисках черных майнеров. Александр Мамаев [[youtube]](https://www.youtube.com/watch?v=00UUnC3l9Jg)
+- `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
+- Bosch. Production Line Performance (Reduce manufacturing failures) [[kaggle]](https://www.kaggle.com/c/bosch-production-line-performance/overview/description)
+- IBM. Equipment Failure Prediction using IoT Sensor data [[github]](https://github.com/IBM/iot-predictive-analytics)
+- `[RU]` РКЦ «Прогресс». Интеллектуальный мониторинг технического состояния станков [[youtube]](https://www.youtube.com/watch?v=TwhArQ0B5l8&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=26)
+- `[RU]` Цифра. АИС Диспетчер, Организация обслуживания и ремонта промышленного оборудования [[youtube]](https://www.youtube.com/watch?v=D6syDw-Mj8Q&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=35), Кейс Авиастар-СП [[youtube]](https://www.youtube.com/watch?v=p2QlreVVOg4&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=24), Кейс RubEx Group [[youtube]](https://www.youtube.com/watch?v=K3pjZT-8NLI&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=25)
+
+#### 1.3 RUL and TTF
+- NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
+- NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
+
+#### 1.4 Product quality
+- Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
+- SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items) | Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
+
+#### 1.5 Other
+- `[RU]` ГПН (Сколтех). Применение ML для прогнозирования литологии в процессе бурения скважины. Никита Ключников [[youtube]](https://www.youtube.com/watch?v=se57e04Ku7A)
+- `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
+- `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://www.youtube.com/watch?v=cs4ZPcXQedg)
+- `[RU]` ГПН. Как сблизить практику и науку ИИ? Анджей Аршавский [[youtube]](https://www.youtube.com/watch?v=Kte9WZFh3uA)
+- `[RU]` ГПН. Применение алгоритмов ML для подавления шумов по несуммированным сейсмическим данным. Даниил Сёмин [[youtube]](https://youtu.be/TylbpWuFY9w)
+- Can you cut the time a Mercedes-Benz spends on the test bench? [[kaggle]](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing/overview), [[The 11th place solution at github, youtube, kaggle]](https://github.com/Danila89/kaggle_mercedes)
+
+#### 1.6 Multiple cases (overviews and panel discussions)
 - `[RU]` Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=cB0EcoUWlhU)
 - `[RU]` Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco [[youtube]](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
 - `[RU]` Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра») [[youtube]](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
@@ -34,5 +48,8 @@ A review of repositories classified by a specific industrial problem with cases 
 - `[RU]` McKinsey: Углублённая аналитика в тяжёлой промышленности [[youtube]](https://www.youtube.com/watch?v=IgW1KVY4bJI) | [[vc.ru]](https://vc.ru/future/133133-agregaty-s-algoritmami-kak-uglublennaya-analitika-menyaet-tyazheluyu-promyshlennost)
 - `[RU]` Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов [[youtube]](https://www.youtube.com/watch?v=qbXo7rl51qY)
 - `[RU]` Машинное обучение в промышленном масштабе. Эмили Драль [[youtube]](https://www.youtube.com/watch?v=0tIaQ0jHUVQ)
+- `[RU]` Machine Learning, или Трансформация данных в деньги. Александр Хайтин, Yandex [[youtube]](https://www.youtube.com/watch?v=7aVZejD9DdU&list=WL)
+- `[RU]` Искусственный интеллект в металлургии. Александр Хайтин, Mechanica AI [[youtube]](https://www.youtube.com/watch?v=WbPcXEmA6-Q&list=WL)
 - `[RU]` Кейс-конференция AI в промышленности. Индустриальные инновации [[youtube]](https://youtu.be/usVQZGNBe78)
 - `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)
+- `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
