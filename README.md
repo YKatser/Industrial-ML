@@ -11,6 +11,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Цифра. Экономно готовим битум: Рекомендации рецептур с помощью машинного обучения. Кирилл Ершов [[youtube]](https://youtu.be/i0o-nSRE9Ks)
 - `[RU]` ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко [[youtube]](https://www.youtube.com/watch?v=GXdk7A1qL5U)
 - `[RU]` Евраз. Хитрый сплав: как мы соединили дата-сайентистов, разработчиков и технологов и чем это помогло металлургии [[habr]](https://habr.com/ru/company/evraz/blog/573340/)
+- `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
 
 #### 1.2 Anomaly detection
 - `[RU]` Росатом. Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI)
@@ -29,14 +30,14 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 #### 1.4 Product quality
 - Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
 - SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items) | Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
+- `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://youtu.be/cs4ZPcXQedg?t=261)
 
 #### 1.5 Other
 - `[RU]` ГПН (Сколтех). Применение ML для прогнозирования литологии в процессе бурения скважины. Никита Ключников [[youtube]](https://www.youtube.com/watch?v=se57e04Ku7A)
-- `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
-- `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://www.youtube.com/watch?v=cs4ZPcXQedg)
 - `[RU]` ГПН. Как сблизить практику и науку ИИ? Анджей Аршавский [[youtube]](https://www.youtube.com/watch?v=Kte9WZFh3uA)
 - `[RU]` ГПН. Применение алгоритмов ML для подавления шумов по несуммированным сейсмическим данным. Даниил Сёмин [[youtube]](https://youtu.be/TylbpWuFY9w)
 - Can you cut the time a Mercedes-Benz spends on the test bench? [[kaggle]](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing/overview), [[The 11th place solution at github, youtube, kaggle]](https://github.com/Danila89/kaggle_mercedes)
+- `[RU]` ПАО «Полюс». Кейс «Цифровой советчик водителя», Андрей Горшков [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=1375)
 
 #### 1.6 Multiple cases (overviews and panel discussions)
 - `[RU]` Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=cB0EcoUWlhU)
@@ -53,3 +54,4 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Кейс-конференция AI в промышленности. Индустриальные инновации [[youtube]](https://youtu.be/usVQZGNBe78)
 - `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
+- `[RU]` Росатом. Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151)
