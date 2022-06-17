@@ -4,7 +4,8 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 <a name="cases"></a>
 ## 1. Cases of Industrial DS
 #### 1.1 Recommendations
-- `[RU]` Северсталь. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [[Arxiv paper on RL]](https://arxiv.org/pdf/2008.06933v1.pdf)
+- `[RU]` Severstal. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501)
+- Severstal. Adaptive speed regulation on a metallurgical pickling line. Boris Voskresenskii [[Arxiv]](https://arxiv.org/pdf/2008.06933v1.pdf)
 - `[RU]` Северсталь. Модель управления обжиговыми машинами. Борис Воскресенский [[youtube]](https://www.youtube.com/watch?v=1Ir70moB9aQ)
 - `[RU]` ММК. Как Яндекс металлургам помогал. Виктор Лобачев [[youtube]](https://www.youtube.com/watch?v=wBbtVPJRMEg)
 - `[RU]` ММК (YDF). Тяжелая металлургия | Data Science кейс-клуб [[youtube]](https://www.youtube.com/watch?v=w68Qe4flJ7Y)
@@ -15,7 +16,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Русал (Mechanica AI). AI + AL. Оптимизация производства алюминия (прогноз вероятности снижения эффективности). Эмели Драль [[youtube]](https://www.youtube.com/watch?v=Tvm5Wy4eD-Y)
 
 #### 1.2 Anomaly detection
-- `[RU]` Росатом. Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI)
+- `[RU]` Росатом. Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)
 - `[RU]` Росатом. Мониторинг технического состояния электролизеров. Юрий Кацер [[youtube]](https://youtu.be/PXqKoQlqwlo)
 - `[RU]` Россети (Mail.ru). Россети и Mail.ru в поисках черных майнеров. Александр Мамаев [[youtube]](https://www.youtube.com/watch?v=00UUnC3l9Jg)
 - `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
@@ -23,10 +24,12 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - IBM. Equipment Failure Prediction using IoT Sensor data [[github]](https://github.com/IBM/iot-predictive-analytics)
 - `[RU]` РКЦ «Прогресс». Интеллектуальный мониторинг технического состояния станков [[youtube]](https://www.youtube.com/watch?v=TwhArQ0B5l8&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=26)
 - `[RU]` Цифра. АИС Диспетчер, Организация обслуживания и ремонта промышленного оборудования [[youtube]](https://www.youtube.com/watch?v=D6syDw-Mj8Q&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=35), Кейс Авиастар-СП [[youtube]](https://www.youtube.com/watch?v=p2QlreVVOg4&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=24), Кейс RubEx Group [[youtube]](https://www.youtube.com/watch?v=K3pjZT-8NLI&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=25)
+- Anomaly Detection and RUL determining in NPP Power Transformers. Iurii Katser [[medium]](https://medium.com/product-ai/anomaly-detection-and-rul-determining-in-npp-power-transformers-b0d998a915)
 
 #### 1.3 RUL and TTF
 - NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
 - NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
+- RUL Determining for Continuous Casting Machine Mold Sleeve. Iurii Katser [[medium]](https://medium.com/product-ai/rul-determining-for-continuous-casting-machine-mold-sleeve-98b7aeb1a17d)
 
 #### 1.4 Product quality
 - Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
