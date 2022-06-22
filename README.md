@@ -42,10 +42,12 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ГПН. Применение алгоритмов ML для подавления шумов по несуммированным сейсмическим данным. Даниил Сёмин [[youtube]](https://youtu.be/TylbpWuFY9w)
 - Can you cut the time a Mercedes-Benz spends on the test bench? [[kaggle]](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing/overview), [[The 11th place solution at github, youtube, kaggle]](https://github.com/Danila89/kaggle_mercedes)
 - `[RU]` ПАО «Полюс». Кейс «Цифровой советчик водителя», Андрей Горшков [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=1375)
+- `[RU]` КРОК. Как подружить промышленность и big data. Аналитика, SCADA, BI, интеграция с источниками данных. [[habr]](https://habr.com/ru/company/croc/blog/466933/)
 
 #### 1.6 Multiple cases (overviews and panel discussions)
 - `[RU]` Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=cB0EcoUWlhU)
 - `[RU]` Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco [[youtube]](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
+- `[RU]` Цифровая экосистема для горняков: как НЛМК применяет искусственный интеллект на Стойленском ГОКе, НЛМК [[rusbase]](https://rb.ru/story/nlmk/)
 - `[RU]` Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра») [[youtube]](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
 - `[RU]` Панельная дискуссия с экспертами индустрии о применении науки о данных в промышленности [[youtube]](https://www.youtube.com/watch?v=T2P-D6rse-E)
 - `[RU]` Severstal Data Science Meetup [[youtube]](https://www.youtube.com/watch?v=6WglJwU-9i4)
