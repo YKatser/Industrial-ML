@@ -1,16 +1,13 @@
 # Industrial-ML-cases
 A overview of repositories, videos, posts classified by a specific industrial problem with cases of applying ML in industry
 
-Other notable cases reviews:
-- `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
-
 <a name="cases"></a>
 ## 1. Cases of Industrial AI/DS/ML
-#### 1.1 Recommendations and Optimizations
+#### 1.1 Recommendations and Optimisations
 - ![code](https://img.shields.io/badge/code-green.svg) `[RU]` Severstal. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501)
 - ![paper](https://img.shields.io/badge/paper-blue.svg) Severstal. Adaptive speed regulation on a metallurgical pickling line with RL. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=dGn4LldPel4), [[Arxiv]](https://arxiv.org/pdf/2008.06933v1.pdf)
 - `[RU]` Северсталь. Модель управления обжиговыми машинами. Борис Воскресенский [[youtube]](https://www.youtube.com/watch?v=1Ir70moB9aQ)
-- `[RU]` ММК. Как Яндекс металлургам помогал. Виктор Лобачев [[youtube]](https://www.youtube.com/watch?v=wBbtVPJRMEg)
+- `[RU]` ММК (YDF). Как Яндекс металлургам помогал. Виктор Лобачев [[youtube]](https://www.youtube.com/watch?v=wBbtVPJRMEg)
 - `[RU]` ММК (YDF). Тяжелая металлургия | Data Science кейс-клуб [[youtube]](https://www.youtube.com/watch?v=w68Qe4flJ7Y)
 - `[RU]` Цифра. Экономно готовим битум: Рекомендации рецептур с помощью машинного обучения. Кирилл Ершов [[youtube]](https://youtu.be/i0o-nSRE9Ks)
 - `[RU]` ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко [[youtube]](https://www.youtube.com/watch?v=GXdk7A1qL5U)
@@ -38,7 +35,7 @@ Other notable cases reviews:
 
 #### 1.4 Product quality
 - ![code](https://img.shields.io/badge/code-green.svg) Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
-- ![code](https://img.shields.io/badge/code-green.svg) SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items) | Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
+- ![code](https://img.shields.io/badge/code-green.svg) SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items), Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
 - `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://youtu.be/cs4ZPcXQedg?t=261)
 
 #### 1.5 Other
@@ -67,3 +64,5 @@ Other notable cases reviews:
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
 - `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151)
 
+Other notable cases reviews:
+- `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
