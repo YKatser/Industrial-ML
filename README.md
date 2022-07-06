@@ -2,7 +2,7 @@
 A overview of repositories, videos, posts classified by a specific industrial problem with cases of applying ML in industry
 
 Other notable cases reviews:
-- `[RU]` https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика
+- `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
 
 <a name="cases"></a>
 ## 1. Cases of Industrial AI/DS/ML
