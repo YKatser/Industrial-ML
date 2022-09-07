@@ -30,6 +30,8 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Евраз. Прогнозировать и предотвращать отказы: как мы внедрили предиктивную аналитику на трех МНЛЗ [[habr]](https://habr.com/ru/company/evraz/blog/656795/)
 - `[RU]` Лаборатория Касперского. Обнаружение аномалий во временных рядах с помощью автоэнкодеров. Павел Филонов [[youtube]](https://www.youtube.com/watch?v=B6r20LBrvYw)
 - `[RU]` Лаборатория Касперского. Нейронные сети на страже индустриальной кибербезопасности. Павел Филонов [[youtube]](https://www.youtube.com/watch?v=HthkpS72a9s)
+- `[RU]` НПЦ "Динамика". Цифровая надежность НПЗ - мониторинг технического состояния оборудования в реальном времени [[youtube]](https://www.youtube.com/watch?v=zy2DnTL-PnU)
+- `[RU]` Siemens (Прана). Предиктивная аналитика оборудования. Дмитрий Большов, Артем Маркелов [[youtube]](https://www.youtube.com/watch?v=j5v_7HNG7lA)
 
 #### 1.3 RUL (remaining usefull life) and TTF (time-to-failure)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
