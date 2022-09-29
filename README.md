@@ -15,13 +15,19 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
 - `[RU]` Русал (Mechanica AI). AI + AL. Оптимизация производства алюминия (прогноз вероятности снижения эффективности). Эмели Драль [[youtube]](https://www.youtube.com/watch?v=Tvm5Wy4eD-Y)
 - Conundrum.ai. Several optimisation cases. [[pdf]](https://conundrum.ai/cases)
+- `[RU]` Инфосистемы Джет. Помощник сталевара: для чего металлургам нужно машинное обучение? Антон Головко [[habr]](https://habr.com/ru/company/jetinfosystems/blog/567842/)
+- `[RU]` НЛМК. Что общего между кофе с доставкой и ковшом жидкой стали. Михаил Чмель [[habr]](https://habr.com/ru/company/nlmk/blog/647067/)
+- `[RU]` НЛМК. Как мы узнали, что одна из бригад оцинковщиков работала быстрее других и что было дальше [[habr]](https://habr.com/ru/company/nlmk/blog/589267/)
+- `[RU]` НЛМК. Как белка с ИИ сэкономила нам 100 миллионов на обогащении руды [[habr]](https://habr.com/ru/company/nlmk/blog/580984/)
+- `[RU]` НЛМК. Варим суп из стали: оптимизация логистики ковшей и как устроен цех КЦ № 2 [[habr]](https://habr.com/ru/company/nlmk/blog/580270/)
+- `[RU]` НЛМК. Предсказания на производстве: смотрим на пять минут вперед и экономим миллионы кубометров газа [[habr]](https://habr.com/ru/company/nlmk/blog/680314/)
+- `[RU]` НЛМК. Возим «ложкой» по ковшу жидкого чугуна и снимаем «шлакопенку» [[habr]](https://habr.com/ru/company/nlmk/blog/674530/)
 
 #### 1.2 Anomaly detection
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)
 - `[RU]` Росатом (Цифрум). Мониторинг технического состояния электролизеров. Юрий Кацер [[youtube]](https://youtu.be/PXqKoQlqwlo), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
 - `[RU]` Росатом (ВНИИАЭС). Предиктивная аналитика турбогенератора АЭС. Мухортов [[pdf]](http://www.cigre.ru/activity/conference/a1/papers/23.%20ВНИИАЭС_Мухортов.pdf)
 - `[RU]` Россети (Mail.ru). Россети и Mail.ru в поисках черных майнеров. Александр Мамаев [[youtube]](https://www.youtube.com/watch?v=00UUnC3l9Jg)
-- `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
 - ![code](https://img.shields.io/badge/code-green.svg) ![data](https://img.shields.io/badge/data-red.svg) Bosch. Production Line Performance (Reduce manufacturing failures) [[kaggle]](https://www.kaggle.com/c/bosch-production-line-performance/overview/description)
 - ![code](https://img.shields.io/badge/code-green.svg) IBM. Equipment Failure Prediction using IoT Sensor data [[github]](https://github.com/IBM/iot-predictive-analytics)
 - `[RU]` РКЦ «Прогресс». Интеллектуальный мониторинг технического состояния станков [[youtube]](https://www.youtube.com/watch?v=TwhArQ0B5l8&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=26)
@@ -52,7 +58,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ПАО «Полюс». Кейс «Цифровой советчик водителя», Андрей Горшков [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=1375)
 - `[RU]` КРОК. Как подружить промышленность и big data. Аналитика, SCADA, BI, интеграция с источниками данных. [[habr]](https://habr.com/ru/company/croc/blog/466933/)
 - `[RU]` Северсталь. Как мы управляем надежностью производственного оборудования огромной вертикально-интегрированной компании [[habr]](https://habr.com/ru/company/severstal/blog/676990/)
-- `[RU]` Росатом (Цифрум). Проблемы качества промышленных данных (временных рядов). Юрий Кацер [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
 
 #### 1.6 Multiple cases (overviews and panel discussions)
 - `[RU]` Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=cB0EcoUWlhU)
@@ -70,7 +75,17 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Кейс-конференция AI в промышленности. Индустриальные инновации [[youtube]](https://youtu.be/usVQZGNBe78)
 - `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
-- `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
 
 Other notable cases reviews:
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
+
+<a name="cases"></a>
+## 2. General Information about Industrial AI/DS/ML
+- `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
+- `[RU]` Росатом (Цифрум). Проблемы качества промышленных данных (временных рядов). Юрий Кацер [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
+- `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
+- `[RU]` Поиск аномалий во временных рядах [[habr]](https://habr.com/ru/post/588320/)
+- `[RU]` Цифра. Зачем заводам машинное обучение. Роман Чеботарев [[habr]](https://habr.com/ru/company/smileexpo/blog/429940/)
+- `[RU]` Росатом (Цифрум). Поиск точек изменения состояния (changepoint detection) на python. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=MywHZ7bfDS4)
+- `[RU]` Росатом (Цифрум). Поиск аномалий в промышленных данных. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=REEDp4FEdV4)
+- `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)
