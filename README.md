@@ -44,6 +44,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
 - Waico.tech. RUL Determining for Continuous Casting Machine Mold Sleeve. Iurii Katser [[medium]](https://medium.com/product-ai/rul-determining-for-continuous-casting-machine-mold-sleeve-98b7aeb1a17d)
+- `[RU]` ПАО «Полюс». Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU)
 
 #### 1.4 Product quality
 - ![code](https://img.shields.io/badge/code-green.svg) Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
@@ -83,9 +84,11 @@ Other notable cases reviews:
 ## 2. General Information about Industrial AI/DS/ML
 - `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
 - `[RU]` Росатом (Цифрум). Проблемы качества промышленных данных (временных рядов). Юрий Кацер [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
+- `[RU]` Росатом (Цифрум). Проблемы в промышленных данных с точки зрения дата сайентиста. Юрий Кацер [[youtube]](https://youtu.be/INMgI6oBHUU)
 - `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
-- `[RU]` Поиск аномалий во временных рядах [[habr]](https://habr.com/ru/post/588320/)
 - `[RU]` Цифра. Зачем заводам машинное обучение. Роман Чеботарев [[habr]](https://habr.com/ru/company/smileexpo/blog/429940/)
 - `[RU]` Росатом (Цифрум). Поиск точек изменения состояния (changepoint detection) на python. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=MywHZ7bfDS4)
 - `[RU]` Росатом (Цифрум). Поиск аномалий в промышленных данных. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=REEDp4FEdV4)
+- `[RU]` Ланит. Разбираем основные методы обнаружения аномалий. [[habr]](https://habr.com/ru/company/lanit/blog/447190/)
+- `[RU]` Поиск аномалий во временных рядах [[habr]](https://habr.com/ru/post/588320/)
 - `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)
