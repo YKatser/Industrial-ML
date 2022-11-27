@@ -76,6 +76,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Кейс-конференция AI в промышленности. Индустриальные инновации [[youtube]](https://youtu.be/usVQZGNBe78)
 - `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
+- `[RU]` Сибур. Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей. Вадим Щемелинин [[habr]](https://habr.com/ru/company/sibur_official/blog/700634/)
 
 Other notable cases reviews:
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
