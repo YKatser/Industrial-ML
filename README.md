@@ -22,6 +22,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НЛМК. Варим суп из стали: оптимизация логистики ковшей и как устроен цех КЦ № 2 [[habr]](https://habr.com/ru/company/nlmk/blog/580270/)
 - `[RU]` НЛМК. Предсказания на производстве: смотрим на пять минут вперед и экономим миллионы кубометров газа [[habr]](https://habr.com/ru/company/nlmk/blog/680314/)
 - `[RU]` НЛМК. Возим «ложкой» по ковшу жидкого чугуна и снимаем «шлакопенку» [[habr]](https://habr.com/ru/company/nlmk/blog/674530/)
+- `[RU]` НЛМК. Прогнозирование концентрации алюминия в ванне горячего оцинкования. Алесандр Котиков [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/5_aleksandr_kotikov_nlmk.pdf)
 
 #### 1.2 Anomaly detection
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)
@@ -32,19 +33,21 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - ![code](https://img.shields.io/badge/code-green.svg) IBM. Equipment Failure Prediction using IoT Sensor data [[github]](https://github.com/IBM/iot-predictive-analytics)
 - `[RU]` РКЦ «Прогресс». Интеллектуальный мониторинг технического состояния станков [[youtube]](https://www.youtube.com/watch?v=TwhArQ0B5l8&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=26)
 - `[RU]` Цифра. АИС Диспетчер, Организация обслуживания и ремонта промышленного оборудования [[youtube]](https://www.youtube.com/watch?v=D6syDw-Mj8Q&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=35), Кейс Авиастар-СП [[youtube]](https://www.youtube.com/watch?v=p2QlreVVOg4&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=24), Кейс RubEx Group [[youtube]](https://www.youtube.com/watch?v=K3pjZT-8NLI&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=25)
-- ![data](https://img.shields.io/badge/data-red.svg) ![paper](https://img.shields.io/badge/paper-blue.svg) Rosatom (waico.tech). Anomaly Detection for NPP Power Transformers. Iurii Katser [[medium]](https://medium.com/product-ai/anomaly-detection-and-rul-determining-in-npp-power-transformers-b0d998a915), [[kaggle]](https://www.kaggle.com/competitions/transformer/data)
+- ![data](https://img.shields.io/badge/data-red.svg) ![paper](https://img.shields.io/badge/paper-blue.svg) Rosatom (waico.tech). Anomaly Detection for NPP Power Transformers. Iurii Katser [[medium]](https://medium.com/product-ai/anomaly-detection-and-rul-determining-in-npp-power-transformers-b0d998a915), [[kaggle]](https://www.kaggle.com/competitions/transformer/data), [[Arxiv]](https://arxiv.org/abs/2211.11013)
 - `[RU]` Евраз. Прогнозировать и предотвращать отказы: как мы внедрили предиктивную аналитику на трех МНЛЗ [[habr]](https://habr.com/ru/company/evraz/blog/656795/)
 - `[RU]` Лаборатория Касперского. Обнаружение аномалий во временных рядах с помощью автоэнкодеров. Павел Филонов [[youtube]](https://www.youtube.com/watch?v=B6r20LBrvYw)
 - `[RU]` Лаборатория Касперского. Нейронные сети на страже индустриальной кибербезопасности. Павел Филонов [[youtube]](https://www.youtube.com/watch?v=HthkpS72a9s)
 - `[RU]` НПЦ "Динамика". Цифровая надежность НПЗ - мониторинг технического состояния оборудования в реальном времени [[youtube]](https://www.youtube.com/watch?v=zy2DnTL-PnU)
 - `[RU]` Siemens (Прана). Предиктивная аналитика оборудования. Дмитрий Большов, Артем Маркелов [[youtube]](https://www.youtube.com/watch?v=j5v_7HNG7lA)
 - `[RU]` Северсталь. Как мы учились предсказывать отказы [[habr]](https://habr.com/ru/company/severstal/blog/546150/)
+- `[RU]` АО «ОДК-Авиадвигатель» (Factory5). От идеи до промышленной эксплуатации. Денис Касимов. [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/2_denis_kasimov_factory5.pdf)
 
 #### 1.3 RUL (remaining usefull life) and TTF (time-to-failure)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
-- ![code](https://img.shields.io/badge/code-green.svg) NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
+- ![data](https://img.shields.io/badge/data-red.svg) ![code](https://img.shields.io/badge/code-green.svg) NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
 - Waico.tech. RUL Determining for Continuous Casting Machine Mold Sleeve. Iurii Katser [[medium]](https://medium.com/product-ai/rul-determining-for-continuous-casting-machine-mold-sleeve-98b7aeb1a17d)
 - `[RU]` ПАО «Полюс». Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU)
+- ![data](https://img.shields.io/badge/data-red.svg) `[RU]` ПАО Роснефть. Определение остаточного ресурса установок электроцентробежных насосов (УЭЦН). [[hackaton]](https://codenrock.com/contests/rosneft-challenge-one#/info)
 
 #### 1.4 Product quality
 - ![code](https://img.shields.io/badge/code-green.svg) Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
