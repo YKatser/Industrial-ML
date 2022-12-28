@@ -40,7 +40,8 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НПЦ "Динамика". Цифровая надежность НПЗ - мониторинг технического состояния оборудования в реальном времени [[youtube]](https://www.youtube.com/watch?v=zy2DnTL-PnU)
 - `[RU]` Siemens (Прана). Предиктивная аналитика оборудования. Дмитрий Большов, Артем Маркелов [[youtube]](https://www.youtube.com/watch?v=j5v_7HNG7lA)
 - `[RU]` Северсталь. Как мы учились предсказывать отказы [[habr]](https://habr.com/ru/company/severstal/blog/546150/)
-- `[RU]` АО «ОДК-Авиадвигатель» (Factory5). От идеи до промышленной эксплуатации. Денис Касимов. [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/2_denis_kasimov_factory5.pdf)
+- `[RU]` АО «ОДК-Авиадвигатель» (Factory5). От идеи до промышленной эксплуатации. Денис Касимов. [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/2_denis_kasimov_factory5.pdf) [[habr]](https://habr.com/ru/company/factory5/blog/674410/)
+- `[RU]` Factory5. Машинное обучение в помощь диагностам и инженерам по надёжности. [[habr]](https://habr.com/ru/company/factory5/blog/699496/)
 
 #### 1.3 RUL (remaining usefull life) and TTF (time-to-failure)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
