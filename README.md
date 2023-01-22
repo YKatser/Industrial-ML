@@ -12,6 +12,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Цифра. Экономно готовим битум: Рекомендации рецептур с помощью машинного обучения. Кирилл Ершов [[youtube]](https://youtu.be/i0o-nSRE9Ks)
 - `[RU]` ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко [[youtube]](https://www.youtube.com/watch?v=GXdk7A1qL5U)
 - `[RU]` Евраз. Хитрый сплав: как мы соединили дата-сайентистов, разработчиков и технологов и чем это помогло металлургии [[habr]](https://habr.com/ru/company/evraz/blog/573340/)
+- `[RU]` Евраз. Тех же щей, да поменьше влей: оптимизируем расход ферросплавов с помощью ML. [[habr]](https://habr.com/ru/company/evraz/blog/676294/)
 - `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
 - `[RU]` Русал (Mechanica AI). AI + AL. Оптимизация производства алюминия (прогноз вероятности снижения эффективности). Эмели Драль [[youtube]](https://www.youtube.com/watch?v=Tvm5Wy4eD-Y)
 - Conundrum.ai. Several optimisation cases. [[pdf]](https://conundrum.ai/cases)
@@ -42,6 +43,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Северсталь. Как мы учились предсказывать отказы [[habr]](https://habr.com/ru/company/severstal/blog/546150/)
 - `[RU]` АО «ОДК-Авиадвигатель» (Factory5). От идеи до промышленной эксплуатации. Денис Касимов. [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/2_denis_kasimov_factory5.pdf) [[habr]](https://habr.com/ru/company/factory5/blog/674410/)
 - `[RU]` Factory5. Машинное обучение в помощь диагностам и инженерам по надёжности. [[habr]](https://habr.com/ru/company/factory5/blog/699496/)
+- `[RU]` Евраз. Прогнозировать и предотвращать отказы: как мы внедрили предиктивную аналитику на трех МНЛЗ. [[habr]](https://habr.com/ru/company/evraz/blog/656795/)
 
 #### 1.3 RUL (remaining usefull life) and TTF (time-to-failure)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
@@ -81,6 +83,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
 - `[RU]` Сибур. Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей. Вадим Щемелинин [[habr]](https://habr.com/ru/company/sibur_official/blog/700634/)
+- `[RU]` Евраз. Видеоаналитика на производстве. Как искусственный интеллект работает там, где не справляется человек. [[habr]](https://habr.com/ru/company/evraz/blog/581882/)
 
 Other notable cases reviews:
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
