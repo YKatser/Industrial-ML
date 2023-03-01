@@ -49,13 +49,14 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
 - ![data](https://img.shields.io/badge/data-red.svg) ![code](https://img.shields.io/badge/code-green.svg) NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
 - Waico.tech. RUL Determining for Continuous Casting Machine Mold Sleeve. Iurii Katser [[medium]](https://medium.com/product-ai/rul-determining-for-continuous-casting-machine-mold-sleeve-98b7aeb1a17d)
-- `[RU]` ПАО «Полюс». Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU)
+- `[RU]` ПАО «Полюс». Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU), [[habr]](https://habr.com/ru/post/717812/)
 - ![data](https://img.shields.io/badge/data-red.svg) `[RU]` ПАО Роснефть. Определение остаточного ресурса установок электроцентробежных насосов (УЭЦН). [[hackaton]](https://codenrock.com/contests/rosneft-challenge-one#/info)
 
 #### 1.4 Product quality
 - ![code](https://img.shields.io/badge/code-green.svg) Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
 - ![code](https://img.shields.io/badge/code-green.svg) SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items), Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
 - `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://youtu.be/cs4ZPcXQedg?t=261)
+- ![data](https://img.shields.io/badge/data-red.svg) `[RU]` Severstal. Steel Defect Detection. Pavel Yakubovskiy, Ilya Dobrynin [[youtube]](https://www.youtube.com/watch?v=FWGwfai0vMk)
 
 #### 1.5 Other
 - `[RU]` ГПН (Сколтех). Применение ML для прогнозирования литологии в процессе бурения скважины. Никита Ключников [[youtube]](https://www.youtube.com/watch?v=se57e04Ku7A)
@@ -67,6 +68,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Северсталь. Как мы управляем надежностью производственного оборудования огромной вертикально-интегрированной компании [[habr]](https://habr.com/ru/company/severstal/blog/676990/)
 
 #### 1.6 Multiple cases (overviews and panel discussions)
+- `[RU]` Машинное обучение в разведке и добыче. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=BygXeEqhaDo)
 - `[RU]` Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=cB0EcoUWlhU)
 - `[RU]` Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco [[youtube]](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
 - `[RU]` Цифровая экосистема для горняков: как НЛМК применяет искусственный интеллект на Стойленском ГОКе, НЛМК [[rusbase]](https://rb.ru/story/nlmk/)
@@ -85,7 +87,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Сибур. Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей. Вадим Щемелинин [[habr]](https://habr.com/ru/company/sibur_official/blog/700634/)
 - `[RU]` Евраз. Видеоаналитика на производстве. Как искусственный интеллект работает там, где не справляется человек. [[habr]](https://habr.com/ru/company/evraz/blog/581882/)
 
-Other notable cases reviews:
+Other notable case reviews:
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
 
 <a name="cases"></a>
@@ -94,9 +96,12 @@ Other notable cases reviews:
 - `[RU]` Росатом (Цифрум). Проблемы качества промышленных данных (временных рядов). Юрий Кацер [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
 - `[RU]` Росатом (Цифрум). Проблемы в промышленных данных с точки зрения дата сайентиста. Юрий Кацер [[youtube]](https://youtu.be/INMgI6oBHUU)
 - `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
+- `[RU]` waico.tech. Все, что вы хотели знать о задаче определения остаточного ресурса оборудования. Юрий Кацер [[habr]](https://habr.com/ru/post/717812/)
 - `[RU]` Цифра. Зачем заводам машинное обучение. Роман Чеботарев [[habr]](https://habr.com/ru/company/smileexpo/blog/429940/)
 - `[RU]` Росатом (Цифрум). Поиск точек изменения состояния (changepoint detection) на python. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=MywHZ7bfDS4)
 - `[RU]` Росатом (Цифрум). Поиск аномалий в промышленных данных. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=REEDp4FEdV4)
 - `[RU]` Ланит. Разбираем основные методы обнаружения аномалий. [[habr]](https://habr.com/ru/company/lanit/blog/447190/)
 - `[RU]` Поиск аномалий во временных рядах [[habr]](https://habr.com/ru/post/588320/)
 - `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)
+- `[RU]` ГПН. Бизнес-задачи для искусственного интеллекта в непрерывном производстве. Сергей Овчинников [[youtube]](https://www.youtube.com/watch?v=6x-Zcc4EFfM)
+- `[RU]` Modcon. Моделирование и анализ данных в управлении непрерывным производством. Грегори Шахновский [[youtube]](https://www.youtube.com/watch?v=I8Wm5819juc)
