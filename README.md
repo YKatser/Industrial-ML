@@ -87,8 +87,10 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Сибур. Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей. Вадим Щемелинин [[habr]](https://habr.com/ru/company/sibur_official/blog/700634/)
 - `[RU]` Евраз. Видеоаналитика на производстве. Как искусственный интеллект работает там, где не справляется человек. [[habr]](https://habr.com/ru/company/evraz/blog/581882/)
 
-Other notable case reviews:
+Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
+- `[RU]` [(cdo2day) Цифробанк — банк эффективных кейсов цифровизации от отечественных компаний](https://cdo2day.ru/cases)
+- `[RU]` [(ai-russia) AI Russia works - библиотека с эффективными кейсами](https://ai-russia.ru/library?page=2&industries=Promyshlennost%27&c=Promyshlennost%27)
 
 <a name="cases"></a>
 ## 2. General Information about Industrial AI/DS/ML
