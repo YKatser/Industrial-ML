@@ -6,6 +6,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 #### 1.1 Recommendations and Optimisations
 - ![code](https://img.shields.io/badge/code-green.svg) `[RU]` Severstal. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501)
 - ![paper](https://img.shields.io/badge/paper-blue.svg) Severstal. Adaptive speed regulation on a metallurgical pickling line with RL. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=dGn4LldPel4), [[Arxiv]](https://arxiv.org/pdf/2008.06933v1.pdf)
+- `[RU]` Северсталь. Data Science в реальном секторе. Д. Муштаков, Л. Абрамов [[youtube]](https://www.youtube.com/watch?v=B_o1RbDbxMc)
+  - Управление скоростью проката на стане 5000
+  - Управление скоростью движения стальной полосы в НТА
 - `[RU]` Северсталь. Модель управления обжиговыми машинами. Борис Воскресенский [[youtube]](https://www.youtube.com/watch?v=1Ir70moB9aQ)
 - `[RU]` ММК (YDF). Как Яндекс металлургам помогал. Виктор Лобачев [[youtube]](https://www.youtube.com/watch?v=wBbtVPJRMEg)
 - `[RU]` ММК (YDF). Тяжелая металлургия | Data Science кейс-клуб [[youtube]](https://www.youtube.com/watch?v=w68Qe4flJ7Y)
@@ -43,7 +46,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Северсталь. Как мы учились предсказывать отказы [[habr]](https://habr.com/ru/company/severstal/blog/546150/)
 - `[RU]` АО «ОДК-Авиадвигатель» (Factory5). От идеи до промышленной эксплуатации. Денис Касимов. [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/2_denis_kasimov_factory5.pdf) [[habr]](https://habr.com/ru/company/factory5/blog/674410/)
 - `[RU]` Factory5. Машинное обучение в помощь диагностам и инженерам по надёжности. [[habr]](https://habr.com/ru/company/factory5/blog/699496/)
-- `[RU]` Евраз. Прогнозировать и предотвращать отказы: как мы внедрили предиктивную аналитику на трех МНЛЗ. [[habr]](https://habr.com/ru/company/evraz/blog/656795/)
 
 #### 1.3 RUL (remaining usefull life) and TTF (time-to-failure)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
@@ -56,7 +58,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - ![code](https://img.shields.io/badge/code-green.svg) Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
 - ![code](https://img.shields.io/badge/code-green.svg) SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items), Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
 - `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://youtu.be/cs4ZPcXQedg?t=261)
-- ![data](https://img.shields.io/badge/data-red.svg) `[RU]` Severstal. Steel Defect Detection. Pavel Yakubovskiy, Ilya Dobrynin [[youtube]](https://www.youtube.com/watch?v=FWGwfai0vMk)
+- ![data](https://img.shields.io/badge/data-red.svg) `[RU]` Severstal. Steel Defect Detection. Pavel Yakubovskiy, Ilya Dobrynin [[youtube]](https://www.youtube.com/watch?v=FWGwfai0vMk), [[youtube]](https://youtu.be/B_o1RbDbxMc?t=2076)
 
 #### 1.5 Other
 - `[RU]` ГПН (Сколтех). Применение ML для прогнозирования литологии в процессе бурения скважины. Никита Ключников [[youtube]](https://www.youtube.com/watch?v=se57e04Ku7A)
@@ -66,6 +68,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ПАО «Полюс». Кейс «Цифровой советчик водителя», Андрей Горшков [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=1375)
 - `[RU]` КРОК. Как подружить промышленность и big data. Аналитика, SCADA, BI, интеграция с источниками данных. [[habr]](https://habr.com/ru/company/croc/blog/466933/)
 - `[RU]` Северсталь. Как мы управляем надежностью производственного оборудования огромной вертикально-интегрированной компании [[habr]](https://habr.com/ru/company/severstal/blog/676990/)
+- `[RU]` Евраз. И конфеты за меня есть будете? AutoML в помощь Citizen Data Scientist’у. Андрей Косинцев [[habr]](https://habr.com/ru/companies/evraz/articles/723070/)
 
 #### 1.6 Multiple cases (overviews and panel discussions)
 - `[RU]` Машинное обучение в разведке и добыче. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=BygXeEqhaDo)
