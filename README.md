@@ -27,6 +27,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НЛМК. Предсказания на производстве: смотрим на пять минут вперед и экономим миллионы кубометров газа [[habr]](https://habr.com/ru/company/nlmk/blog/680314/)
 - `[RU]` НЛМК. Возим «ложкой» по ковшу жидкого чугуна и снимаем «шлакопенку» [[habr]](https://habr.com/ru/company/nlmk/blog/674530/)
 - `[RU]` НЛМК. Прогнозирование концентрации алюминия в ванне горячего оцинкования. Алесандр Котиков [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/5_aleksandr_kotikov_nlmk.pdf)
+- ![paper](https://img.shields.io/badge/paper-blue.svg) `[RU]` Норникель. Трекинг множества объектов без разметки или как следить за пузырьками во время пенной флотации. Алексей Клоков [[habr]](https://habr.com/ru/companies/ods/articles/705020/), [[paper]](https://www.corpuspublishers.com/article-info/flotation-froth-monitoring-using--unsupervised-multiple-object-tracking--methods-630)
 
 #### 1.2 Anomaly detection
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)
@@ -77,7 +78,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Цифровая экосистема для горняков: как НЛМК применяет искусственный интеллект на Стойленском ГОКе, НЛМК [[rusbase]](https://rb.ru/story/nlmk/)
 - `[RU]` Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра») [[youtube]](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
 - `[RU]` Data Fest Online 2020. Трэк: Машинное обучение в реальных секторах экономики - от добычи нефти до генерации энергии и производства стали. [[ods.ai]](https://ods.ai/tracks/manufacturing-energy-logistics-df2020#)
-- `[RU]` Severstal Data Science Meetup [[youtube]](https://www.youtube.com/watch?v=6WglJwU-9i4)
 - `[RU]` Научно-техническая конференция «Цифровые технологии в добыче углеводородов: от моделей к практике - 2021». Применение интеллектуальных технологий на объектах добычи, хранения, транспорта и переработки нефти [[youtube]](https://www.youtube.com/watch?v=6X9VHAuT0is)
 - `[RU]` McKinsey: Углублённая аналитика в тяжёлой промышленности [[youtube]](https://www.youtube.com/watch?v=IgW1KVY4bJI), [[vc.ru]](https://vc.ru/future/133133-agregaty-s-algoritmami-kak-uglublennaya-analitika-menyaet-tyazheluyu-promyshlennost)
 - `[RU]` Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов [[youtube]](https://www.youtube.com/watch?v=qbXo7rl51qY)
@@ -89,6 +89,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)
 - `[RU]` Сибур. Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей. Вадим Щемелинин [[habr]](https://habr.com/ru/company/sibur_official/blog/700634/)
 - `[RU]` Евраз. Видеоаналитика на производстве. Как искусственный интеллект работает там, где не справляется человек. [[habr]](https://habr.com/ru/company/evraz/blog/581882/)
+- `[RU]` Норникель. Большие данные, хакатон с «Норникелем» и металлургия: все смешать, но не взбалтывать [[habr]](https://habr.com/ru/articles/551652/)
 
 Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
