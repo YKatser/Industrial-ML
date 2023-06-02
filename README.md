@@ -1,9 +1,7 @@
-# Industrial-ML-cases
+# Cases of Industrial AI/DS/ML
 A overview of repositories, videos, posts classified by a specific industrial problem with cases of applying ML in industry
 
-<a name="cases"></a>
-## 1. Cases of Industrial AI/DS/ML
-#### 1.1 Recommendations and Optimisations
+## 1. Recommendations and Optimisations
 - ![code](https://img.shields.io/badge/code-green.svg) `[RU]` Severstal. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501)
 - ![paper](https://img.shields.io/badge/paper-blue.svg) Severstal. Adaptive speed regulation on a metallurgical pickling line with RL. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=dGn4LldPel4), [[Arxiv]](https://arxiv.org/pdf/2008.06933v1.pdf)
 - `[RU]` Северсталь. Data Science в реальном секторе. Д. Муштаков, Л. Абрамов [[youtube]](https://www.youtube.com/watch?v=B_o1RbDbxMc)
@@ -28,8 +26,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НЛМК. Возим «ложкой» по ковшу жидкого чугуна и снимаем «шлакопенку» [[habr]](https://habr.com/ru/company/nlmk/blog/674530/)
 - `[RU]` НЛМК. Прогнозирование концентрации алюминия в ванне горячего оцинкования. Алесандр Котиков [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/5_aleksandr_kotikov_nlmk.pdf)
 - ![paper](https://img.shields.io/badge/paper-blue.svg) `[RU]` Норникель. Трекинг множества объектов без разметки или как следить за пузырьками во время пенной флотации. Алексей Клоков [[habr]](https://habr.com/ru/companies/ods/articles/705020/), [[paper]](https://www.corpuspublishers.com/article-info/flotation-froth-monitoring-using--unsupervised-multiple-object-tracking--methods-630)
+- `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)
 
-#### 1.2 Anomaly detection
+## 2. Anomaly detection (faults and failures)
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)
 - `[RU]` Росатом (Цифрум). Мониторинг технического состояния электролизеров. Юрий Кацер [[youtube]](https://youtu.be/PXqKoQlqwlo), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
 - `[RU]` Росатом (ВНИИАЭС). Предиктивная аналитика турбогенератора АЭС. Мухортов [[pdf]](http://www.cigre.ru/activity/conference/a1/papers/23.%20ВНИИАЭС_Мухортов.pdf)
@@ -47,21 +46,32 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Северсталь. Как мы учились предсказывать отказы [[habr]](https://habr.com/ru/company/severstal/blog/546150/)
 - `[RU]` АО «ОДК-Авиадвигатель» (Factory5). От идеи до промышленной эксплуатации. Денис Касимов. [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/2_denis_kasimov_factory5.pdf) [[habr]](https://habr.com/ru/company/factory5/blog/674410/)
 - `[RU]` Factory5. Машинное обучение в помощь диагностам и инженерам по надёжности. [[habr]](https://habr.com/ru/company/factory5/blog/699496/)
+- `[RU]` Поиск аномалий во временных рядах [[habr]](https://habr.com/ru/post/588320/)
+- `[RU]` Росатом (Цифрум). Поиск точек изменения состояния (changepoint detection) на python. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=MywHZ7bfDS4)
+- `[RU]` Росатом (Цифрум). Поиск аномалий в промышленных данных. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=REEDp4FEdV4)
+- `[RU]` Ланит. Разбираем основные методы обнаружения аномалий. [[habr]](https://habr.com/ru/company/lanit/blog/447190/)
+- `[RU]` AIRI. ИИ в Индустрии 5.0. Илья Макаров [[youtube]](https://youtu.be/N4LvjQen69w)
+  - Диагностика неисправностей в химическом производстве
+  - Система мониторинга промышленного оборудования
+  - RUL для Li-ion батарей
 
-#### 1.3 RUL (remaining usefull life) and TTF (time-to-failure)
+## 3. RUL (remaining usefull life) and TTF (time-to-failure)
 - ![code](https://img.shields.io/badge/code-green.svg) NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)
 - ![data](https://img.shields.io/badge/data-red.svg) ![code](https://img.shields.io/badge/code-green.svg) NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)
 - Waico.tech. RUL Determining for Continuous Casting Machine Mold Sleeve. Iurii Katser [[medium]](https://medium.com/product-ai/rul-determining-for-continuous-casting-machine-mold-sleeve-98b7aeb1a17d)
 - `[RU]` ПАО «Полюс». Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU), [[habr]](https://habr.com/ru/post/717812/)
 - ![data](https://img.shields.io/badge/data-red.svg) `[RU]` ПАО Роснефть. Определение остаточного ресурса установок электроцентробежных насосов (УЭЦН). [[hackaton]](https://codenrock.com/contests/rosneft-challenge-one#/info)
 
-#### 1.4 Product quality
+## 4. Product quality
 - ![code](https://img.shields.io/badge/code-green.svg) Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)
 - ![code](https://img.shields.io/badge/code-green.svg) SECOM Detecting Defected Items (binary classification problem) [[github]](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items), Approaches for the class imbalance problem SECOM [[github]](https://github.com/Meena-Mani/SECOM_class_imbalance)
 - `[RU]` Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев [[youtube]](https://youtu.be/cs4ZPcXQedg?t=261)
 - ![data](https://img.shields.io/badge/data-red.svg) `[RU]` Severstal. Steel Defect Detection. Pavel Yakubovskiy, Ilya Dobrynin [[youtube]](https://www.youtube.com/watch?v=FWGwfai0vMk), [[youtube]](https://youtu.be/B_o1RbDbxMc?t=2076)
 
-#### 1.5 Other
+## 5. Safety and access control
+- `[RU]` ВШЭ. Автоматизация мониторинга за ручным производством. Виктор Минченков [[youtube]](https://youtu.be/cq98BOoCsSo)
+
+## 6. Other
 - `[RU]` ГПН (Сколтех). Применение ML для прогнозирования литологии в процессе бурения скважины. Никита Ключников [[youtube]](https://www.youtube.com/watch?v=se57e04Ku7A)
 - `[RU]` ГПН. Как сблизить практику и науку ИИ? Анджей Аршавский [[youtube]](https://www.youtube.com/watch?v=Kte9WZFh3uA)
 - `[RU]` ГПН. Применение алгоритмов ML для подавления шумов по несуммированным сейсмическим данным. Даниил Сёмин [[youtube]](https://youtu.be/TylbpWuFY9w)
@@ -70,17 +80,24 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` КРОК. Как подружить промышленность и big data. Аналитика, SCADA, BI, интеграция с источниками данных. [[habr]](https://habr.com/ru/company/croc/blog/466933/)
 - `[RU]` Северсталь. Как мы управляем надежностью производственного оборудования огромной вертикально-интегрированной компании [[habr]](https://habr.com/ru/company/severstal/blog/676990/)
 - `[RU]` Евраз. И конфеты за меня есть будете? AutoML в помощь Citizen Data Scientist’у. Андрей Косинцев [[habr]](https://habr.com/ru/companies/evraz/articles/723070/)
+- `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
+- `[RU]` Росатом (Цифрум). Проблемы в промышленных данных с точки зрения дата сайентиста. Юрий Кацер [[youtube]](https://youtu.be/INMgI6oBHUU), [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
+- `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
+- `[RU]` Цифра. Зачем заводам машинное обучение. Роман Чеботарев [[habr]](https://habr.com/ru/company/smileexpo/blog/429940/)
+- `[RU]` ГПН. Бизнес-задачи для искусственного интеллекта в непрерывном производстве. Сергей Овчинников [[youtube]](https://www.youtube.com/watch?v=6x-Zcc4EFfM)
+- `[RU]` Modcon. Моделирование и анализ данных в управлении непрерывным производством. Грегори Шахновский [[youtube]](https://www.youtube.com/watch?v=I8Wm5819juc)
 
-#### 1.6 Multiple cases (overviews and panel discussions)
+## 7. Multiple cases (overviews and panel discussions)
 - `[RU]` Машинное обучение в разведке и добыче. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=BygXeEqhaDo)
 - `[RU]` Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех [[youtube]](https://www.youtube.com/watch?v=cB0EcoUWlhU)
 - `[RU]` Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco [[youtube]](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
+- `[RU]` Индустриальный искусственный интеллект в нефтедобывающей промышленности. Алексей Шпильман [[youtube]](https://youtu.be/6CO8hZnOJYU)
+- `[RU]` Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов [[youtube]](https://www.youtube.com/watch?v=qbXo7rl51qY)
 - `[RU]` Цифровая экосистема для горняков: как НЛМК применяет искусственный интеллект на Стойленском ГОКе, НЛМК [[rusbase]](https://rb.ru/story/nlmk/)
 - `[RU]` Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра») [[youtube]](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
 - `[RU]` Data Fest Online 2020. Трэк: Машинное обучение в реальных секторах экономики - от добычи нефти до генерации энергии и производства стали. [[ods.ai]](https://ods.ai/tracks/manufacturing-energy-logistics-df2020#)
 - `[RU]` Научно-техническая конференция «Цифровые технологии в добыче углеводородов: от моделей к практике - 2021». Применение интеллектуальных технологий на объектах добычи, хранения, транспорта и переработки нефти [[youtube]](https://www.youtube.com/watch?v=6X9VHAuT0is)
 - `[RU]` McKinsey: Углублённая аналитика в тяжёлой промышленности [[youtube]](https://www.youtube.com/watch?v=IgW1KVY4bJI), [[vc.ru]](https://vc.ru/future/133133-agregaty-s-algoritmami-kak-uglublennaya-analitika-menyaet-tyazheluyu-promyshlennost)
-- `[RU]` Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов [[youtube]](https://www.youtube.com/watch?v=qbXo7rl51qY)
 - `[RU]` Машинное обучение в промышленном масштабе. Эмили Драль [[youtube]](https://www.youtube.com/watch?v=0tIaQ0jHUVQ)
 - `[RU]` Machine Learning, или Трансформация данных в деньги. Александр Хайтин, Yandex [[youtube]](https://www.youtube.com/watch?v=7aVZejD9DdU&list=WL)
 - `[RU]` Искусственный интеллект в металлургии. Александр Хайтин, Mechanica AI [[youtube]](https://www.youtube.com/watch?v=WbPcXEmA6-Q&list=WL)
@@ -90,24 +107,12 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Сибур. Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей. Вадим Щемелинин [[habr]](https://habr.com/ru/company/sibur_official/blog/700634/)
 - `[RU]` Евраз. Видеоаналитика на производстве. Как искусственный интеллект работает там, где не справляется человек. [[habr]](https://habr.com/ru/company/evraz/blog/581882/)
 - `[RU]` Норникель. Большие данные, хакатон с «Норникелем» и металлургия: все смешать, но не взбалтывать [[habr]](https://habr.com/ru/articles/551652/)
+- `[RU]` CyberPhysics. Применение гибридного моделирования в задачах аналитики промышленного оборудования. Михаил Гусев [[youtube]](https://youtu.be/fn6f0Uf5ozo)
+  - Оптимизация процесса литья пластиковых деталей под давлением
+  - Диагностика технического состояния парка газоперекачивающих агрегатов
+  - Оптимизация расхода газа в печах
 
-Other notable case reviews (marketing materials mostly):
+## 8. Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
 - `[RU]` [(cdo2day) Цифробанк — банк эффективных кейсов цифровизации от отечественных компаний](https://cdo2day.ru/cases)
 - `[RU]` [(ai-russia) AI Russia works - библиотека с эффективными кейсами](https://ai-russia.ru/library?page=2&industries=Promyshlennost%27&c=Promyshlennost%27)
-
-<a name="cases"></a>
-## 2. General Information about Industrial AI/DS/ML
-- `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
-- `[RU]` Росатом (Цифрум). Проблемы качества промышленных данных (временных рядов). Юрий Кацер [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
-- `[RU]` Росатом (Цифрум). Проблемы в промышленных данных с точки зрения дата сайентиста. Юрий Кацер [[youtube]](https://youtu.be/INMgI6oBHUU)
-- `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
-- `[RU]` waico.tech. Все, что вы хотели знать о задаче определения остаточного ресурса оборудования. Юрий Кацер [[habr]](https://habr.com/ru/post/717812/)
-- `[RU]` Цифра. Зачем заводам машинное обучение. Роман Чеботарев [[habr]](https://habr.com/ru/company/smileexpo/blog/429940/)
-- `[RU]` Росатом (Цифрум). Поиск точек изменения состояния (changepoint detection) на python. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=MywHZ7bfDS4)
-- `[RU]` Росатом (Цифрум). Поиск аномалий в промышленных данных. Юрий Кацер [[youtube]](https://www.youtube.com/watch?v=REEDp4FEdV4)
-- `[RU]` Ланит. Разбираем основные методы обнаружения аномалий. [[habr]](https://habr.com/ru/company/lanit/blog/447190/)
-- `[RU]` Поиск аномалий во временных рядах [[habr]](https://habr.com/ru/post/588320/)
-- `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)
-- `[RU]` ГПН. Бизнес-задачи для искусственного интеллекта в непрерывном производстве. Сергей Овчинников [[youtube]](https://www.youtube.com/watch?v=6x-Zcc4EFfM)
-- `[RU]` Modcon. Моделирование и анализ данных в управлении непрерывным производством. Грегори Шахновский [[youtube]](https://www.youtube.com/watch?v=I8Wm5819juc)
