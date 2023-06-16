@@ -16,7 +16,17 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Евраз. Тех же щей, да поменьше влей: оптимизируем расход ферросплавов с помощью ML. [[habr]](https://habr.com/ru/company/evraz/blog/676294/)
 - `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)
 - `[RU]` Русал (Mechanica AI). AI + AL. Оптимизация производства алюминия (прогноз вероятности снижения эффективности). Эмели Драль [[youtube]](https://www.youtube.com/watch?v=Tvm5Wy4eD-Y)
-- Conundrum.ai. Several optimisation cases. [[pdf]](https://conundrum.ai/cases)
+- Conundrum.ai. Optimisation cases. [[site]](https://conundrum.ai/cases)
+  - Optimisation of AG mills control
+  - Optimisation of flotation circuit
+  - Optimisation of crushing circuit
+  - Prevention of Mill overload
+  - Smelting optimisation
+  - Optimisation of feeder operations
+  - Optimisation of magnetite consumption
+  - Annealing furnace optimisation
+  - Prediction of cavitation on hydrocyclones
+  - Prediction of silicon content after blast furnace treatment
 - `[RU]` Инфосистемы Джет. Помощник сталевара: для чего металлургам нужно машинное обучение? Антон Головко [[habr]](https://habr.com/ru/company/jetinfosystems/blog/567842/)
 - `[RU]` НЛМК. Что общего между кофе с доставкой и ковшом жидкой стали. Михаил Чмель [[habr]](https://habr.com/ru/company/nlmk/blog/647067/)
 - `[RU]` НЛМК. Как мы узнали, что одна из бригад оцинковщиков работала быстрее других и что было дальше [[habr]](https://habr.com/ru/company/nlmk/blog/589267/)
@@ -27,6 +37,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НЛМК. Прогнозирование концентрации алюминия в ванне горячего оцинкования. Алесандр Котиков [[pdf]](https://filearchive.cnews.ru/img/files/2022/11/24/5_aleksandr_kotikov_nlmk.pdf)
 - ![paper](https://img.shields.io/badge/paper-blue.svg) `[RU]` Норникель. Трекинг множества объектов без разметки или как следить за пузырьками во время пенной флотации. Алексей Клоков [[habr]](https://habr.com/ru/companies/ods/articles/705020/), [[paper]](https://www.corpuspublishers.com/article-info/flotation-froth-monitoring-using--unsupervised-multiple-object-tracking--methods-630)
 - `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)
+- `[RU]` BIOCAD. Как мы подружили биореакторы и ML. Владимир Меркулов, Василий Вологдин [[youtube]](https://youtu.be/lwwR7USyu9o)
 
 ## 2. Anomaly detection (faults and failures)
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)
@@ -80,6 +91,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` КРОК. Как подружить промышленность и big data. Аналитика, SCADA, BI, интеграция с источниками данных. [[habr]](https://habr.com/ru/company/croc/blog/466933/)
 - `[RU]` Северсталь. Как мы управляем надежностью производственного оборудования огромной вертикально-интегрированной компании [[habr]](https://habr.com/ru/company/severstal/blog/676990/)
 - `[RU]` Евраз. И конфеты за меня есть будете? AutoML в помощь Citizen Data Scientist’у. Андрей Косинцев [[habr]](https://habr.com/ru/companies/evraz/articles/723070/)
+- `[RU]` Евраз. ML в промышленности: задачи и проблемы. Андрей Зубков [[youtube]](https://www.youtube.com/watch?v=hi3aaGyP1m8)
 - `[RU]` Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации [[youtube]](https://www.youtube.com/watch?v=rJgoEILUmiI)
 - `[RU]` Росатом (Цифрум). Проблемы в промышленных данных с точки зрения дата сайентиста. Юрий Кацер [[youtube]](https://youtu.be/INMgI6oBHUU), [[habr]](https://habr.com/ru/company/rosatom/blog/687152/)
 - `[RU]` Росатом (Цифрум). Опыт проектов с ИИ в промышленности. Юрий Кацер [[youtube]](https://youtu.be/2JG6T7YXQ3o?t=3151), [[habr]](https://habr.com/ru/company/rosatom/blog/686864/)
@@ -93,6 +105,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco [[youtube]](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
 - `[RU]` Индустриальный искусственный интеллект в нефтедобывающей промышленности. Алексей Шпильман [[youtube]](https://youtu.be/6CO8hZnOJYU)
 - `[RU]` Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов [[youtube]](https://www.youtube.com/watch?v=qbXo7rl51qY)
+- Petroleum Technology Research Centre (PTRC). Artificial Intelligence & Machine Learning in the Oil & Gas Industry [[youtube]](https://youtu.be/-n7pdBZ-aRg)
 - `[RU]` Цифровая экосистема для горняков: как НЛМК применяет искусственный интеллект на Стойленском ГОКе, НЛМК [[rusbase]](https://rb.ru/story/nlmk/)
 - `[RU]` Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра») [[youtube]](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
 - `[RU]` Data Fest Online 2020. Трэк: Машинное обучение в реальных секторах экономики - от добычи нефти до генерации энергии и производства стали. [[ods.ai]](https://ods.ai/tracks/manufacturing-energy-logistics-df2020#)
@@ -115,6 +128,11 @@ A overview of repositories, videos, posts classified by a specific industrial pr
   - Продвинутая аналитика для сокращения числа обрывов БОПП-пленки
   - Повышение качества управления эффективностью производства и визуализация технологических данных
   - Предиктивное обслуживание оборудования (экструдер, гранулятор)
+- Irish Manufacturing Research. AI in Action: Applications of Artificial Intelligence in Manufacturing [[youtube]](https://youtu.be/5YBcfcG-2Mk)
+  - (Quality assurance) Detect defects using automated visual inspection
+  - (Predictive Maintenance) Prevents unplanned downtime by using machine learning
+  - (Generative design) Automated prototyping
+  - (Demand Forecast) Better planning of operations
 
 ## 8. Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
