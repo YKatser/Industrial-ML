@@ -10,14 +10,11 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 	- energetics ![](https://img.shields.io/badge/sector-power-lightblue.svg)
 	- other sectors ![](https://img.shields.io/badge/sector-others-black.svg)
 
-- Existing of scientific paper  
-![paper](https://img.shields.io/badge/paper-blue.svg)
+- Existing of scientific paper ![paper](https://img.shields.io/badge/paper-blue.svg)
 
-- Existing of dataset  
-![data](https://img.shields.io/badge/data-red.svg)
+- Existing of dataset ![data](https://img.shields.io/badge/data-red.svg)
 
-- Existing of code  
-![code](https://img.shields.io/badge/code-green.svg)
+- Existing of code ![code](https://img.shields.io/badge/code-green.svg)
 
 ## 1. Recommendations and Optimisations
 - `[RU]` Severstal. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501)  
@@ -48,10 +45,11 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко [[youtube]](https://www.youtube.com/watch?v=GXdk7A1qL5U)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
 
-- `[RU]` Евраз. Хитрый сплав: как мы соединили дата-сайентистов, разработчиков и технологов и чем это помогло металлургии [[habr]](https://habr.com/ru/company/evraz/blog/573340/)  
+- `[RU]` Евраз. Хитрый сплав: как мы соединили дата-сайентистов, разработчиков и технологов и чем это помогло металлургии 
+[[habr]](https://habr.com/ru/company/evraz/blog/573340/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
-- `[RU]` Евраз. Тех же щей, да поменьше влей: оптимизируем расход ферросплавов с помощью ML. [[habr]](https://habr.com/ru/company/evraz/blog/676294/)  
+- `[RU]` Евраз. Тех же щей, да поменьше влей: оптимизируем расход ферросплавов с помощью ML [[habr]](https://habr.com/ru/company/evraz/blog/676294/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
 - `[RU]` Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев [[youtube]](https://www.youtube.com/watch?v=6LesrsmwlVQ)  
@@ -113,7 +111,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` BIOCAD. Как мы подружили биореакторы и ML. Владимир Меркулов, Василий Вологдин [[youtube]](https://youtu.be/lwwR7USyu9o)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
 
-## 2. Anomaly detection (faults and failures)
+## 2. Anomaly detection (faults and failures) and process monitoring
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)  
 ![](https://img.shields.io/badge/sector-mechanical-purple.svg)
 
@@ -196,7 +194,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)
 ![code](https://img.shields.io/badge/code-green.svg)
 
-- NASA. The aircraft engine run-to-failure data [[github]](https://github.com/Samimust/predictive-maintenance)  
+- NASA. The aircraft engine run-to-failure data [[github1]](https://github.com/Samimust/predictive-maintenance), [[github2]](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine/tree/master), [[kaggle]](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 ![data](https://img.shields.io/badge/data-red.svg)
 ![code](https://img.shields.io/badge/code-green.svg)
@@ -246,6 +244,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ГПН. Применение алгоритмов ML для подавления шумов по несуммированным сейсмическим данным. Даниил Сёмин [[youtube]](https://youtu.be/TylbpWuFY9w)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
+- `[RU]` ГПН. Использование ИИ в процессах гидродинамического моделирования нефтегазовых месторождений. Виктор Котежеков [[youtube]](https://youtu.be/tODbO5eH3vw)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+
 - Can you cut the time a Mercedes-Benz spends on the test bench? [[kaggle]](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing/overview), [[The 11th place solution at github, youtube, kaggle]](https://github.com/Danila89/kaggle_mercedes)  
 ![](https://img.shields.io/badge/sector-mechanical-purple.svg)
 ![code](https://img.shields.io/badge/code-green.svg)
@@ -282,6 +283,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
 - `[RU]` Modcon. Моделирование и анализ данных в управлении непрерывным производством. Грегори Шахновский [[youtube]](https://www.youtube.com/watch?v=I8Wm5819juc)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+
+- `[RU]` ИТМО. Физически-обоснованные модели с точки зрения машинного обучения. Александр Хватов [[youtube]](https://www.youtube.com/watch?v=WyxRLW9vI_4)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 
 
