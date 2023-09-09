@@ -102,7 +102,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Норникель. Галопом по производствам: ML в Норникеле. Алексей Клоков [[youtube]](https://youtu.be/KXWUyZOYzs4)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
-- `[RU]` Норникель. Цифровые двойники оператора на производстве на примере компании из цветной металлургии. Антон Абраров [[youtube]](https://www.youtube.com/watch?v=dzPP7o6FGtM)  
+- `[RU]` Норникель. Цифровые двойники оператора на производстве на примере компании из цветной металлургии. Антон Абраров [[youtube video 1]](https://www.youtube.com/watch?v=dzPP7o6FGtM), [[youtube video 2]](https://youtu.be/pGCoTpmJXpg?si=E43UuSHA8zlSwKSi)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
 - `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)  
@@ -202,8 +202,11 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - Waico.tech. RUL Determining for Continuous Casting Machine Mold Sleeve. Iurii Katser [[medium]](https://medium.com/product-ai/rul-determining-for-continuous-casting-machine-mold-sleeve-98b7aeb1a17d)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
-- `[RU]` ПАО «Полюс». Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU), [[habr]](https://habr.com/ru/post/717812/)  
-![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+- `[RU]` Waico.tech. Задача определения остаточного ресурса оборудования. Юрий Кацер [[youtube]](https://youtu.be/vs2np-wGCYU), [[habr]](https://habr.com/ru/post/717812/)  
+![](https://img.shields.io/badge/sector-power-lightblue.svg)
+
+- `[RU]` Waico.tech. Решение задачи определения RUL трансформаторов с помощью машинного обучения на python. Юрий Кацер [[habr]](https://habr.com/ru/articles/743682/), [[kaggle]](https://www.kaggle.com/code/yuriykatser/equipment-rul-determining-using-ml-and-python)  
+![](https://img.shields.io/badge/sector-power-lightblue.svg)
 
 - `[RU]` ПАО Роснефть. Определение остаточного ресурса установок электроцентробежных насосов (УЭЦН). [[hackaton]](https://codenrock.com/contests/rosneft-challenge-one#/info)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
@@ -226,10 +229,15 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![data](https://img.shields.io/badge/data-red.svg)
 
+- `[RU]` ЦИТМ Экспонента. Обнаружение аномалий на изображениях гаек [[youtube]](https://youtu.be/fk0ikKkxv7A?si=_H1TT6iJNCFWW6nq)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+![code](https://img.shields.io/badge/code-green.svg) 
+
 
 ## 5. Safety and access control
 - `[RU]` ВШЭ. Автоматизация мониторинга за ручным производством. Виктор Минченков [[youtube]](https://youtu.be/cq98BOoCsSo)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
+
 - `[RU]` ТМК. Найти то, что скрыто: повышаем безопасность при переработке лома. Александр Лунев [[youtube]](https://youtu.be/zfDXPlRXPfA)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
@@ -326,6 +334,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Machine Learning, или Трансформация данных в деньги. Александр Хайтин, Yandex [[youtube]](https://www.youtube.com/watch?v=7aVZejD9DdU&list=WL)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
+- `[RU]` ПАО «Полюс». Искусственный интеллект в промышленности. Иван Максимов (https://youtu.be/8hwWxpKwRe0?si=oCHZyFqjfZxWvALJ)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
 - `[RU]` Искусственный интеллект в металлургии. Александр Хайтин, Mechanica AI [[youtube]](https://www.youtube.com/watch?v=WbPcXEmA6-Q&list=WL)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
@@ -371,5 +382,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 
 ## 8. Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
+
 - `[RU]` [(cdo2day) Цифробанк — банк эффективных кейсов цифровизации от отечественных компаний](https://cdo2day.ru/cases)
+
 - `[RU]` [(ai-russia) AI Russia works - библиотека с эффективными кейсами](https://ai-russia.ru/library?page=2&industries=Promyshlennost%27&c=Promyshlennost%27)

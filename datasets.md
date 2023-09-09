@@ -54,5 +54,8 @@ Here we propose datasets applicable for benchmarking of the following industrial
 
 ### RUL (remaining usefull life) and TTF (time-to-failure)
 
-- [NPP power transformer](https://www.kaggle.com/competitions/transformer-time) - RUL determining
+- [NPP power transformer RUL](https://www.kaggle.com/competitions/transformer-time/data) - RUL determining
 - [NASA Turbofan Jet Engine Data Set (C-MAPSS)](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps) - RUL determining + [Challenge](https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/PHM08%20Challenge%20on%20this%20dataset) on this dataset
+- [NASA Bearing Dataset](https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset) - RUL determining
+- [Battery Remaining Useful Life](https://www.kaggle.com/datasets/ignaciovinuales/battery-remaining-useful-life-rul) - RUL determining
+- [Water Pump RUL](https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance) - RUL determining
