@@ -105,6 +105,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Норникель. Цифровые двойники оператора на производстве на примере компании из цветной металлургии. Антон Абраров [[youtube video 1]](https://www.youtube.com/watch?v=dzPP7o6FGtM), [[youtube video 2]](https://youtu.be/pGCoTpmJXpg?si=E43UuSHA8zlSwKSi)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
+- `[RU]` Норникель. Машинное обучение в промышленном процессе растворения никеля: проклятие данных, машинное колдовство и темное предсказание. Козлов Алексей [[youtube]](https://www.youtube.com/live/VkJms5q8WQE?si=k95NjGx_Ca8UdQs_&t=5737)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
 - `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
@@ -189,12 +192,20 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Waico.tech. Диагностика нефтегазовых трубопроводов с помощью машинного обучения. Юрий Кацер [[youtube]](https://youtu.be/3639Uq9NV1Y)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
+- Case Western Reserve University Bearing Fault Detection [[site]](https://biswajitsahoo1111.github.io/cbm_codes_open/)  
+![](https://img.shields.io/badge/sector-mechanical-purple.svg)
+![data](https://img.shields.io/badge/data-red.svg)
+![code](https://img.shields.io/badge/code-green.svg)
+
+- `[RU]` Сколтех. Обнаружение аномалий, прогнозирование поломок. Евгений Бурнаев [[youtube1]](https://youtu.be/CNX3waEGIao?si=fLr0V8P9lsnJ7Cp6), [[youtube2]](https://youtu.be/9p4DJBYyjnw?si=Am1ds3p7qmzWZ6dW)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+
 ## 3. RUL (remaining usefull life) and TTF (time-to-failure)
 - NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)  
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)
 ![code](https://img.shields.io/badge/code-green.svg)
 
-- NASA. The aircraft engine run-to-failure data [[github1]](https://github.com/Samimust/predictive-maintenance), [[github2]](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine/tree/master), [[kaggle]](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)  
+- NASA. The aircraft engine run-to-failure data [[github1]](https://github.com/Samimust/predictive-maintenance), [[github2]](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine/tree/master), [[github3]](https://biswajitsahoo1111.github.io/rul_codes_open/), [[kaggle]](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 ![data](https://img.shields.io/badge/data-red.svg)
 ![code](https://img.shields.io/badge/code-green.svg)
@@ -355,7 +366,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` РЕНА. Техническое зрение в промышленности. Евгений Молчанов [[youtube]](https://www.youtube.com/watch?v=drRzxPYfmdQ)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 
-- `[RU]` Евраз. Видеоаналитика на производстве. Как искусственный интеллект работает там, где не справляется человек. [[habr]](https://habr.com/ru/company/evraz/blog/581882/)  
+- `[RU]` Евраз. Computer Vision на промышленном предприятии. Александр Ромахин [[youtube]](https://youtu.be/QSHt41-CUN0?si=gNx83F8dJhHyTFMm), [[habr]](https://habr.com/ru/company/evraz/blog/581882/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
 - `[RU]` Норникель. Большие данные, хакатон с «Норникелем» и металлургия: все смешать, но не взбалтывать [[habr]](https://habr.com/ru/articles/551652/)  

@@ -47,6 +47,7 @@ Here we propose datasets applicable for benchmarking of the following industrial
 - [Soil Moisture Active Passive satellite and the Curiosity Rover on Mars](https://github.com/khundman/telemanom) - Anomaly detection
 - [Vessels anomaly detection](http://conferences.inf.ed.ac.uk/EuroDW2018/papers/eurodw18-Maia.pdf) - Anomaly detection
 - [NASA Milling Dataset](https://www.kaggle.com/datasets/vinayak123tyagi/milling-data-set-prognostic-data) - Tool wear detection
+- [Ball bearing data for normal and faulty bearings by Bearing Data Center](https://engineering.case.edu/bearingdatacenter) - Anomaly detection
 
 ### Product quality
 
@@ -59,3 +60,4 @@ Here we propose datasets applicable for benchmarking of the following industrial
 - [NASA Bearing Dataset](https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset) - RUL determining
 - [Battery Remaining Useful Life](https://www.kaggle.com/datasets/ignaciovinuales/battery-remaining-useful-life-rul) - RUL determining
 - [Water Pump RUL](https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance) - RUL determining
+- [RUL Dataset from Continuous Casting Machine](https://www.kaggle.com/datasets/yuriykatser/rul-dataset-from-continuous-casting-machine) - RUL determining
