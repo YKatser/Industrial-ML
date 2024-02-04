@@ -114,6 +114,15 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` BIOCAD. Как мы подружили биореакторы и ML. Владимир Меркулов, Василий Вологдин [[youtube]](https://youtu.be/lwwR7USyu9o)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
 
+- `[RU]` Полиметалл (redmadrobot). Решение проблемы с анализом гранулометрического состава руды и определением негабарита при производстве золота [[vc]](https://vc.ru/ml/437894-na-ves-zolota-kak-poluchat-dannye-o-razmere-i-sostave-rudy-za-sekundy-a-ne-chasy)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` ERG (redmadrobot). Анализ содержимого конвейера и определение состава руды в реальном времени [[vc]](https://vc.ru/ml/104106-kak-iskusstvennyy-intellekt-snizhaet-stoimost-proizvodstva-zheleznoy-rudy-v-kazahstane)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` НЛМК (redmadrobot). Как ИИ повышает эффективность транспортировки железной руды на Стойленском ГОКе [[vc]](https://vc.ru/redmadrobot/280321-algoritmy-dlya-promyshlennosti-kak-ii-povyshaet-effektivnost-transportirovki-zheleznoy-rudy-na-stoylenskom-goke)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
 ## 2. Anomaly detection (faults and failures) and process monitoring
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)  
 ![](https://img.shields.io/badge/sector-mechanical-purple.svg)
@@ -199,6 +208,12 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 
 - `[RU]` Сколтех. Обнаружение аномалий, прогнозирование поломок. Евгений Бурнаев [[youtube1]](https://youtu.be/CNX3waEGIao?si=fLr0V8P9lsnJ7Cp6), [[youtube2]](https://youtu.be/9p4DJBYyjnw?si=Am1ds3p7qmzWZ6dW)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
+
+- `[RU]` redmadrobot. Детектирование проблем с конвейерной лентой [[habr]](https://habr.com/ru/companies/redmadrobot/articles/790336/)  
+![](https://img.shields.io/badge/sector-power-lightblue.svg)
+
+- `[RU]` Еврохим (redmadrobot). Как определять объекты на пересыпе [[habr]](https://habr.com/ru/companies/redmadrobot/articles/711534/)  
+![](https://img.shields.io/badge/sector-chemical-red.svg)
 
 ## 3. RUL (remaining usefull life) and TTF (time-to-failure)
 - NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)  
