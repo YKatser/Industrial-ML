@@ -71,9 +71,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
   - Prediction of cavitation on hydrocyclones
   - Prediction of silicon content after blast furnace treatment
 
-- `[RU]` Инфосистемы Джет. Помощник сталевара: для чего металлургам нужно машинное обучение? Антон Головко [[habr]](https://habr.com/ru/company/jetinfosystems/blog/567842/)  
-![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
-
 - `[RU]` НЛМК. Что общего между кофе с доставкой и ковшом жидкой стали. Михаил Чмель [[habr]](https://habr.com/ru/company/nlmk/blog/647067/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
@@ -108,9 +105,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Норникель. Машинное обучение в промышленном процессе растворения никеля: проклятие данных, машинное колдовство и темное предсказание. Козлов Алексей [[youtube]](https://www.youtube.com/live/VkJms5q8WQE?si=k95NjGx_Ca8UdQs_&t=5737)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
-- `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)  
-![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
-
 - `[RU]` BIOCAD. Как мы подружили биореакторы и ML. Владимир Меркулов, Василий Вологдин [[youtube]](https://youtu.be/lwwR7USyu9o)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
 
@@ -122,6 +116,21 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 
 - `[RU]` НЛМК (redmadrobot). Как ИИ повышает эффективность транспортировки железной руды на Стойленском ГОКе [[vc]](https://vc.ru/redmadrobot/280321-algoritmy-dlya-promyshlennosti-kak-ii-povyshaet-effektivnost-transportirovki-zheleznoy-rudy-na-stoylenskom-goke)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` GlowByte. Оптимизация цикла измельчения цемента [[youtube]](https://youtu.be/vgzryfsMXiU?si=TnM_hFLxR4QkeHun)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+
+- `[RU]` Инфосистемы Джет. Помощник сталевара: для чего металлургам нужно машинное обучение? Антон Головко [[habr]](https://habr.com/ru/company/jetinfosystems/blog/567842/)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` Инфосистемы Джет. Оптимизация расхода ферросплавов, сохраняя и стабилизируя качество производимой стали. Ярослав Шмулев [[youtube]](https://youtu.be/7mhHvh_Uc6U?si=9JwS5Dxq_9xqL5yI)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+
+- `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` Газпром. Управление участком ГТС с помощью Reinforcement Learning. Александр Королев [[youtube]](https://youtu.be/KGmfUhIQLFI?si=DqJh2Wch7DEJ7hz1)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
 ## 2. Anomaly detection (faults and failures) and process monitoring
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)  
