@@ -132,7 +132,10 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Газпром. Управление участком ГТС с помощью Reinforcement Learning. Александр Королев [[youtube]](https://youtu.be/KGmfUhIQLFI?si=DqJh2Wch7DEJ7hz1)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
-## 2. Anomaly detection (faults and failures) and process monitoring
+- `[RU]` Газпромнефть-ЦР. Генетический алгоритм для оптимизации режимов работ скважин. Михаил Бобов [[youtube]](https://youtu.be/H0iotA34sJ4?si=P98JZFd1A9L4jvIv)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+
+## 2. Anomaly detection (faults/failures/deviations) and process monitoring
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)  
 ![](https://img.shields.io/badge/sector-mechanical-purple.svg)
 
@@ -224,6 +227,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Еврохим (redmadrobot). Как определять объекты на пересыпе [[habr]](https://habr.com/ru/companies/redmadrobot/articles/711534/)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
 
+- `[RU]` Газпромнефть-ЦР. Комбинация алгоритмов машинного обучения и аналитических моделей при решении задач контроля добычи. Олег Кобзарь [[youtube]](https://youtu.be/mpXZ7By2hq8?si=U38l6VQqTW4E0YMi)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+
 ## 3. RUL (remaining usefull life) and TTF (time-to-failure)
 - NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)  
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)
@@ -288,6 +294,12 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
 - `[RU]` ГПН. Использование ИИ в процессах гидродинамического моделирования нефтегазовых месторождений. Виктор Котежеков [[youtube]](https://youtu.be/tODbO5eH3vw)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+
+- `[RU]` Ассоциация "ИИ в промышленности". Особенности машинного обучения в нефтегазовой отрасли. Олег Свидченко [[youtube]](https://youtu.be/Gf44TWjsBpk?si=bhySoEZS2lZY2kZy)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+
+- `[RU]` GridPoint Dynamics. R&D AI-алгоритмов от MVP до продукта. Проблемы и пути решения на примере задач интерпретации данных сейсморазведки. Игорь Ефремов [[youtube]](https://youtu.be/KJUJXVsEGEY?si=HzCY3wvnTpQ1WBrF)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
 - Can you cut the time a Mercedes-Benz spends on the test bench? [[kaggle]](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing/overview), [[The 11th place solution at github, youtube, kaggle]](https://github.com/Danila89/kaggle_mercedes)  
@@ -379,6 +391,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-others-black.svg)
 
 - `[RU]` ГПН: ПРАКТИКА И ИССЛЕДОВАНИЯ В СФЕРЕ ИИ ДЛЯ ПРОМЫШЛЕННЫХ КОМПАНИЙ [[youtube]](https://www.youtube.com/watch?v=Co6jVtHMxHw)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+
+- `[RU]` Газпром. Знания нефтегазовой отрасли и искусственный интеллект. Александр Белинский [[youtube]](https://youtu.be/dPAUuxfceps?si=NxmU_SKvfGyGHgom)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
 - `[RU]` Schneider Electric. Система расширенного управления производственными процессами и эффективностью активов по критерию минимизации простоев, платформа для предиктивного технического обслуживания и многое другое [[youtube]](https://www.youtube.com/watch?v=co-UoQpO55M&list=PLM7qA5ysFEZssxVSwjqudMnsIK_Vu2iLB&index=58)  
