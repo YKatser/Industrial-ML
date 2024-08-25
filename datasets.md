@@ -48,6 +48,16 @@ Here we propose datasets applicable for benchmarking of the following industrial
 - [Vessels anomaly detection](http://conferences.inf.ed.ac.uk/EuroDW2018/papers/eurodw18-Maia.pdf) - Anomaly detection
 - [NASA Milling Dataset](https://www.kaggle.com/datasets/vinayak123tyagi/milling-data-set-prognostic-data) - Tool wear detection
 - [Ball bearing data for normal and faulty bearings by Bearing Data Center](https://engineering.case.edu/bearingdatacenter) - Anomaly detection
+- [Shaft Angular Misalignment Dataset](https://data.mendeley.com/datasets/kf96jx9dzf/1) -  Anomaly detection and diagnosis
+- [Shaft Misalignment Data for: Inter-component Phase Processing of Quasipolyharmonic Signals](https://data.mendeley.com/datasets/pt9mjcvghd/1) - Anomaly detection and diagnosis
+- [Shaft orbits dataset: parallel and angular misalignment](https://data.mendeley.com/datasets/8b33tx79wt/1) - Anomaly detection
+- [Vibration of bearing under conditions of moderately variated shaft speed](https://data.mendeley.com/datasets/j66x27t229/1) - Process monitoring (outlier detection)
+- [Vibration of bearing under conditions of constant shaft speed](https://data.mendeley.com/datasets/ryg9rrkgv8/1) - Process monitoring (outlier detection) 
+- [Vibration of rolling bearings under widely varying speed conditions](https://data.mendeley.com/datasets/6k6fbzc6vv/1) - Process monitoring (outlier detection)
+- [Bearing 6213 Norm/OR Dataset](https://data.mendeley.com/datasets/fbf6y8m4mv/1) - Anomaly detection
+- [Case Western Reserve University (CWRU) bearing fault dataset](https://engineering.case.edu/bearingdatacenter/download-data-file) - Anomaly detection
+- [MFPT dataset](https://www.mfpt.org/fault-data-sets/) - Anomaly detection
+- [MAFAULDA :: Machinery Fault Database](https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset) - Anomaly detection
 
 ### Product quality
 
