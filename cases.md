@@ -164,7 +164,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
-- `[RU]` НЛМК (redmadrobot). Определение недогруза и негабарита в кузове экскаваторов [[site]](https://redmadrobot.ru/data-science-1/algoritmy-dlya-promyshlennosti-kak-ii-povyshaet-effektivnost-transportirovki-zheleznoj-rudy-na-stojlenskom-go-ke)  
+- `[RU]` НЛМК (redmadrobot). Определение недогруза и негабарита в кузове самосвалов [[site]](https://redmadrobot.ru/data-science-1/algoritmy-dlya-promyshlennosti-kak-ii-povyshaet-effektivnost-transportirovki-zheleznoj-rudy-na-stojlenskom-go-ke)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
@@ -259,9 +259,11 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 
 - `[RU]` redmadrobot. Детектирование проблем с конвейерной лентой [[habr]](https://habr.com/ru/companies/redmadrobot/articles/790336/)  
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
 
 - `[RU]` Еврохим (redmadrobot). Как определять объекты на пересыпе [[habr]](https://habr.com/ru/companies/redmadrobot/articles/711534/)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
 
 - `[RU]` Газпромнефть-ЦР. Комбинация алгоритмов машинного обучения и аналитических моделей при решении задач контроля добычи. Олег Кобзарь [[youtube]](https://youtu.be/mpXZ7By2hq8?si=U38l6VQqTW4E0YMi)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
@@ -512,3 +514,5 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` [(cdo2day) Цифробанк — банк эффективных кейсов цифровизации от отечественных компаний](https://cdo2day.ru/cases)
 
 - `[RU]` [(ai-russia) AI Russia works - библиотека с эффективными кейсами](https://ai-russia.ru/library?page=2&industries=Promyshlennost%27&c=Promyshlennost%27)
+
+- `[RU]` [Материалы конференции Industrial++ 2024](https://disk.yandex.ru/d/TCntadVwvWm19Q)
