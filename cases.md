@@ -94,7 +94,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НЛМК. Варим суп из стали: оптимизация логистики ковшей и как устроен цех КЦ № 2 [[habr]](https://habr.com/ru/company/nlmk/blog/580270/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
-- `[RU]` НЛМК. Предсказания на производстве: смотрим на пять минут вперед и экономим миллионы кубометров газа [[habr]](https://habr.com/ru/company/nlmk/blog/680314/)  
+- `[RU]` НЛМК. Предсказания на производстве: смотрим на пять минут вперед и экономим миллионы кубометров доменного газа [[habr]](https://habr.com/ru/company/nlmk/blog/680314/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
 - `[RU]` НЛМК. Возим «ложкой» по ковшу жидкого чугуна и снимаем «шлакопенку» [[habr]](https://habr.com/ru/company/nlmk/blog/674530/)  
@@ -158,7 +158,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-TS-darkblue.svg)
 
-- `[RU]` ГПН (НГУ). Гибридное моделирование глушения скважин в условиях АНПД. Степан Кармушин и Антон Кожухов [[tg]](https://t.me/DataKatser/165)
+- `[RU]` ГПН (НГУ). Гибридное моделирование глушения скважин в условиях АНПД. Степан Кармушин и Антон Кожухов [[tg]](https://t.me/DataKatser/165)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+![](https://img.shields.io/badge/data-TAB-brown.svg)
 
 - `[RU]` Евраз. Видеоаналитика на производстве. Определение длины заготовки в горячем и холодном состояниях [[habr]](https://habr.com/ru/company/evraz/blog/581882/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
@@ -167,6 +169,13 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` НЛМК (redmadrobot). Определение недогруза и негабарита в кузове самосвалов [[site]](https://redmadrobot.ru/data-science-1/algoritmy-dlya-promyshlennosti-kak-ii-povyshaet-effektivnost-transportirovki-zheleznoj-rudy-na-stojlenskom-go-ke)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
+
+- `[RU]` Крок. Моделирование работы реальной ТЭЦ для оптимизации режимов: пар и математика. Вячеслав Максимов [[habr]](https://habr.com/ru/companies/croc/articles/481902/)  
+![](https://img.shields.io/badge/sector-power-lightblue.svg)
+
+- `[RU]` Инфосистемы Джет. Применение ML для оптимизации работы питательных электронасосов в ТЭЦ металлургического комбината. [[habr]](https://habr.com/ru/companies/jetinfosystems/articles/878104/)  
+![](https://img.shields.io/badge/sector-power-lightblue.svg)
+![](https://img.shields.io/badge/data-TS-darkblue.svg)
 
 ## 2. Anomaly detection (faults/failures/deviations) and process monitoring
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)  
