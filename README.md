@@ -19,13 +19,13 @@ Repository includes following industrial sectors:
 - other sectors ![](https://img.shields.io/badge/sector-others-black.svg)
 
 ## Business problems
-Some lists are classified by the following common problems:
-- Recommendations and Optimisations
-- Anomaly detection (faults and failures)
-- RUL (remaining usefull life) and TTF (time-to-failure)
-- Product quality
-- Safety and access control
-- Other
+![problems](docs/problems.png)
+
+Lists are classified by the following common problems:
+- ***Production process***: Recommendations, process control, and safety
+- ***Machinery and equipment***: Maintenance management, Anomaly detection and process monitoring (faults/failures/deviations), RUL (remaining usefull life) and TTF (time-to-failure)
+- ***Products***: Product design, quality control, counting and tracking
+- ***Others***
 
 # Citation
 Please cite my project in your publications if it helps your research.

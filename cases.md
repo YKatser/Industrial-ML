@@ -23,7 +23,9 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 
 - Availability of code ![code](https://img.shields.io/badge/code-green.svg)
 
-## 1. Recommendations and process control
+## 1. Production process
+Recommendations, process control, and safety
+
 - `[RU]` Severstal. Causal inference for a steel mill. Boris Voskresenskii [[youtube]](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [[towardsdatascience.com]](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)  
 ![code](https://img.shields.io/badge/code-green.svg)
@@ -37,7 +39,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
   - Управление скоростью проката на стане 5000
   - Управление скоростью движения стальной полосы в НТ
 
-- `[RU]` Северсталь. Система управления процессом окомкования железорудных окатышей. Андрей Голов [[youtube]](https://youtu.be/Sfq3rkeaiLk?si=0SpFIlZl8cWqxnz9)  
+- `[RU]` Северсталь. Система управления процессом окомкования железорудных окатышей. Андрей Голов [[youtube]](https://youtu.be/Sfq3rkeaiLk?si=0SpFIlZl8cWqxnz9), [[habr]](https://habr.com/ru/companies/oleg-bunin/articles/865088/)    
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
@@ -125,18 +127,22 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 
 - `[RU]` ERG (redmadrobot). Анализ содержимого конвейера и определение состава руды в реальном времени [[vc]](https://vc.ru/ml/104106-kak-iskusstvennyy-intellekt-snizhaet-stoimost-proizvodstva-zheleznoy-rudy-v-kazahstane)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
 
 - `[RU]` НЛМК (redmadrobot). Как ИИ повышает эффективность транспортировки железной руды на Стойленском ГОКе [[vc]](https://vc.ru/redmadrobot/280321-algoritmy-dlya-promyshlennosti-kak-ii-povyshaet-effektivnost-transportirovki-zheleznoy-rudy-na-stoylenskom-goke)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
 
 - `[RU]` GlowByte. Оптимизация цикла измельчения цемента [[youtube]](https://youtu.be/vgzryfsMXiU?si=TnM_hFLxR4QkeHun)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 
 - `[RU]` Инфосистемы Джет. Помощник сталевара: для чего металлургам нужно машинное обучение? Антон Головко [[habr]](https://habr.com/ru/company/jetinfosystems/blog/567842/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+![](https://img.shields.io/badge/data-TS-darkblue.svg)
 
-- `[RU]` Инфосистемы Джет. Оптимизация расхода ферросплавов, сохраняя и стабилизируя качество производимой стали. Ярослав Шмулев [[youtube]](https://youtu.be/7mhHvh_Uc6U?si=9JwS5Dxq_9xqL5yI)  
+- `[RU]` Инфосистемы Джет. Оптимизация расхода ферросплавов, сохраняя и стабилизируя качество производимой стали. Ярослав Шмулев [[youtube]](https://youtu.be/7mhHvh_Uc6U?si=9JwS5Dxq_9xqL5yI), [[youtube]](https://www.youtube.com/live/aaj56YUjLQQ), [[vc]](https://vc.ru/life/1406369-pro-vnedrenie-ii-v-staleliteinuyu-kompaniyu-i-borsh)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
+![](https://img.shields.io/badge/data-TS-darkblue.svg)
 
 - `[RU]` Инфосистемы Джет. «Другие» рекомендации [[habr]](https://habr.com/ru/company/jetinfosystems/blog/652863/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
@@ -177,7 +183,13 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)
 ![](https://img.shields.io/badge/data-TS-darkblue.svg)
 
-## 2. Anomaly detection (faults/failures/deviations) and process monitoring
+- `[RU]` ВШЭ. Автоматизация мониторинга за ручным производством. Виктор Минченков [[youtube]](https://youtu.be/cq98BOoCsSo)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
+
+## 2. Machinery and equipment
+Maintenance management, Anomaly detection and process monitoring (faults/failures/deviations), RUL (remaining usefull life) and TTF (time-to-failure)
+
 - `[RU]` Росатом (Цифрум). Предиктивная аналитика на МСЗ. Иван Максимов [[youtube]](https://www.youtube.com/watch?v=dYp0ik05roI), [[medium]](https://medium.com/product-ai/fault-detection-and-rul-determining-for-granulation-machines-36c3111d655b)  
 ![](https://img.shields.io/badge/sector-mechanical-purple.svg)
 
@@ -280,7 +292,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Цифра. Прогнозирование осложнений в процессе бурения нефтегазовых скважин. Семён Косяченко [[youtube]](https://youtu.be/w-60n9PeIOk?si=YQtBV4AV7cLSiLuC)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
-## 3. RUL (remaining usefull life) and TTF (time-to-failure)
 - NASA (Microsoft). LSTM for predictive maintenance on Turbofan Engine Degradation Simulation Data Set [[github]](https://github.com/Azure/lstms_for_predictive_maintenance), [[gallery.azure.ai]](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3)  
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)  
 ![code](https://img.shields.io/badge/code-green.svg)
@@ -299,12 +310,15 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Waico.ru. Решение задачи определения RUL трансформаторов с помощью машинного обучения на python. Юрий Кацер [[habr]](https://habr.com/ru/articles/743682/), [[kaggle]](https://www.kaggle.com/code/yuriykatser/equipment-rul-determining-using-ml-and-python)  
 ![](https://img.shields.io/badge/sector-power-lightblue.svg)
 
-- `[RU]` Роснефть. Определение остаточного ресурса установок электроцентробежных насосов (УЭЦН). [[hackaton]](https://codenrock.com/contests/rosneft-challenge-one#/info)  
+- `[RU]` Роснефть. Определение остаточного ресурса установок электроцентробежных насосов (УЭЦН). [[статья]](https://magazine.neftegaz.ru/articles/oborudovanie/875411-obzor-opyta-prognozirovaniya-otkazov-uetsn-metodami-mashinnogo-obucheniya/), [[hackaton]](https://codenrock.com/contests/rosneft-challenge-one#/info)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)  
 ![dataset](https://img.shields.io/badge/dataset-red.svg)
+![paper](https://img.shields.io/badge/paper-blue.svg)
 
 
-## 4. Product quality
+## 3. Products
+Product design, quality control, counting and tracking
+
 - Industrial defect inspection (counting the number of pills during manufacturing) [[github]](https://github.com/jorgehas/smart-defect-inspection)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)  
@@ -329,7 +343,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/data-CV-gold.svg)  
 ![code](https://img.shields.io/badge/code-green.svg)
 
-- `[RU]` ОМК. Оценка качества маталлолома на этапе приемки в сталеплавильном производстве. Даниил Сторонкин [[youtube]](https://youtu.be/3Sluut9i4b8?si=Ot12Ijypz4TP_7cd)  
+- `[RU]` ОМК. Оценка качества металлолома на этапе приемки в сталеплавильном производстве. Даниил Сторонкин [[youtube]](https://youtu.be/3Sluut9i4b8?si=Ot12Ijypz4TP_7cd), [[habr]](https://habr.com/ru/companies/omk-it/articles/874324/)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
@@ -337,14 +351,17 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
-
-## 5. Safety and access control
-- `[RU]` ВШЭ. Автоматизация мониторинга за ручным производством. Виктор Минченков [[youtube]](https://youtu.be/cq98BOoCsSo)  
-![](https://img.shields.io/badge/sector-others-black.svg)
+- `[RU]` НЛМК. Что случается с металлоломом и зачем там хардкорное ИТ. Андрей Фимушин [[habr]](https://habr.com/ru/companies/nlmk/articles/683084/)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
+- `[RU]` Евраз. Нейросетевое око на страже качества: ИИ заменяет операторов промышленного производства. Или нет? [[habr]](https://habr.com/ru/companies/evraz/articles/774414/)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
+  - Детекция ванадиевого шлака
+  - Оценка качества заготовки
 
-## 6. Other
+## 4. Others
 - `[RU]` Сибур. Генерация искусственных данных для промышленности. Никита Каменев [[youtube]](https://youtu.be/S0Oqx9wVYqU?si=tbgtnSu4rS9Btiy6)  
 ![](https://img.shields.io/badge/sector-others-black.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
@@ -361,7 +378,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` ГПН. Использование ИИ в процессах гидродинамического моделирования нефтегазовых месторождений. Виктор Котежеков [[youtube]](https://youtu.be/tODbO5eH3vw)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
-- `[RU]` Ассоциация "ИИ в промышленности". Особенности машинного обучения в нефтегазовой отрасли. Олег Свидченко [[youtube]](https://youtu.be/Gf44TWjsBpk?si=bhySoEZS2lZY2kZy)  
+- `[RU]` Ассоциация "ИИ в промышленности". Особенности машинного обучения в нефтегазовой отрасли. Олег Свидченко [[youtube]](https://youtu.be/Gf44TWjsBpk?si=bhySoEZS2lZY2kZy), [[habr]](https://habr.com/ru/companies/oleg-bunin/articles/783656/)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
 - `[RU]` GridPoint Dynamics. R&D AI-алгоритмов от MVP до продукта. Проблемы и пути решения на примере задач интерпретации данных сейсморазведки. Игорь Ефремов [[youtube]](https://youtu.be/KJUJXVsEGEY?si=HzCY3wvnTpQ1WBrF)  
@@ -417,7 +434,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
 
-## 7. Multiple cases (overviews and panel discussions)
+## 5. Multiple cases (overviews and panel discussions)
 - `[RU]` Машинное обучение в разведке и добыче. Дмитрий Коротеев, Сколтех [[youtube]](https://youtu.be/jhhNZn7WR-I?si=o-9FArooKQARUuoj)  
 ![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
 
@@ -488,12 +505,6 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Евраз. Computer Vision на промышленном предприятии. Александр Ромахин [[youtube]](https://youtu.be/QSHt41-CUN0?si=gNx83F8dJhHyTFMm)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
-
-- `[RU]` CyberPhysics. Применение гибридного моделирования в задачах аналитики промышленного оборудования. Михаил Гусев [[youtube]](https://youtu.be/fn6f0Uf5ozo)  
-![](https://img.shields.io/badge/sector-others-black.svg)
-  - Оптимизация процесса литья пластиковых деталей под давлением
-  - Диагностика технического состояния парка газоперекачивающих агрегатов
-  - Оптимизация расхода газа в печах
   
 - `[RU]` Сибур. Цифровая трансформация в СИБУРе. Василий Номоконов [[youtube]](https://youtu.be/5m0iVJJcxqw)  
 ![](https://img.shields.io/badge/sector-chemical-red.svg)
@@ -511,13 +522,7 @@ A overview of repositories, videos, posts classified by a specific industrial pr
 - `[RU]` Норникель. Галопом по производствам: ML в Норникеле. Алексей Клоков [[youtube]](https://youtu.be/KXWUyZOYzs4)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
-- `[RU]` Евраз. Нейросетевое око на страже качества: ИИ заменяет операторов промышленного производства. Или нет? [[habr]](https://habr.com/ru/companies/evraz/articles/774414/)  
-![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
-![](https://img.shields.io/badge/data-CV-gold.svg)
-  - Детекция ванадиевого шлака
-  - Оценка качества заготовки
-
-## 8. Other notable case reviews (marketing materials mostly):
+## 6. Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
 
 - `[RU]` [(cdo2day) Цифробанк — банк эффективных кейсов цифровизации от отечественных компаний](https://cdo2day.ru/cases)
