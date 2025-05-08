@@ -433,6 +433,10 @@ Product design, quality control, counting and tracking
 ![](https://img.shields.io/badge/sector-others-black.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
+- `[RU]` ИТМО. Гибридное моделирование океана: совмещаем гидродинамику и машинное обучение. Юлия Борисова [[youtube]](https://youtu.be/pz5HbB16mLQ?si=7Z9iztf0_g7bpBPN)  
+![](https://img.shields.io/badge/sector-others-black.svg)
+![](https://img.shields.io/badge/data-TS-darkblue.svg)
+
 
 ## 5. Multiple cases (overviews and panel discussions)
 - `[RU]` Машинное обучение в разведке и добыче. Дмитрий Коротеев, Сколтех [[youtube]](https://youtu.be/jhhNZn7WR-I?si=o-9FArooKQARUuoj)  
@@ -475,6 +479,9 @@ Product design, quality control, counting and tracking
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
 - `[RU]` Полюс. Искусственный интеллект в промышленности. Иван Максимов [[youtube]](https://youtu.be/8hwWxpKwRe0?si=oCHZyFqjfZxWvALJ)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` НЛМК. Искусственный Интеллект в металлургии. Анджей Аршавский [[pdf]](https://cloudcon.ru/sites/default/files/13.25-13.45_arhavsky_nlmk_new.pdf)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
 
 - `[RU]` Кейс-конференция AI в промышленности. Индустриальные инновации [[youtube]](https://youtu.be/usVQZGNBe78)  
@@ -521,6 +528,17 @@ Product design, quality control, counting and tracking
 
 - `[RU]` Норникель. Галопом по производствам: ML в Норникеле. Алексей Клоков [[youtube]](https://youtu.be/KXWUyZOYzs4)  
 ![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+
+- `[RU]` Еврохим. Как устроена разработка ML-продуктов для производства ЕвроХима. Вячеслав Козицин [[youtube]](https://youtu.be/edZljmmNPLU?si=QmRV_PUKNJnNlqx8)  
+![](https://img.shields.io/badge/sector-chemical-red.svg)
+
+- `[RU]` Еврохим. Использование Zero-shot и искусственных данных в проектах по компьютерному зрению. Дмитрий Колесников [[youtube]](https://youtu.be/bNro7QrGdzA?si=XbqIbuuMIAo0lPx-)  
+![](https://img.shields.io/badge/sector-chemical-red.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
+
+- `[RU]` НЛМК. CV Projects. Иван Маржановский [[youtube]](https://youtu.be/L07DvJgjazI?si=zu4W058V5u9tLVlY)  
+![](https://img.shields.io/badge/sector-metallurgy-lightgray.svg)
+![](https://img.shields.io/badge/data-CV-gold.svg)
 
 ## 6. Other notable case reviews (marketing materials mostly):
 - `[RU]` [(ict.moscow) Кейсы: международные практики применения искусственного интеллекта в промышленности и энергетике](https://ict.moscow/projects/ai/cases/?integrationApplications=промышленность+и+энергетика)
