@@ -187,6 +187,10 @@ Recommendations, process control, and safety
 ![](https://img.shields.io/badge/sector-others-black.svg)
 ![](https://img.shields.io/badge/data-CV-gold.svg)
 
+- `[RU]` Моделирование работы гидроциклона для очистки воды от нефти с помощью ML [[habr]](https://habr.com/ru/articles/909830/)  
+![](https://img.shields.io/badge/sector-oil&gas-blue.svg)
+![](https://img.shields.io/badge/data-TAB-brown.svg)
+
 ## 2. Machinery and equipment
 Maintenance management, Anomaly detection and process monitoring (faults/failures/deviations), RUL (remaining usefull life) and TTF (time-to-failure)
 
